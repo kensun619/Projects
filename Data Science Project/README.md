@@ -1,5 +1,15 @@
 # Data Science Project
 
+## 
+     
+    Stage 1: define the DS problem, collect data
+    Stage 2: extracting structured information from raw data
+    Stage 3: entity matching, out on Wed Mar 8
+    Stage 4: combining data into a single set
+    Stage 5: performing analysis on the integrated data
+
+
+
 ## Reports
 
 - [Stage 1 Report](https://github.com/TrangHo/cs838-spring2017/raw/master/reports/Stage1Report.pdf)
