@@ -1,12 +1,12 @@
 # Data Science Project
 
-## 
+## Project Pipeline
      
-    [Stage 1: define the DS problem, collect data](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-1)
-    [Stage 2: extracting structured information from raw data](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-2)
-    [Stage 3: entity matching](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-3)
-    [Stage 4: combining data into a single set](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-4)
-    [Stage 5: performing analysis on the integrated data](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-5)
+   -[Stage 1: define the DS problem, collect data](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-1)
+   - [Stage 2: extracting structured information from raw data](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-2)
+   - [Stage 3: entity matching](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-3)
+   - [Stage 4: combining data into a single set](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-4)
+   - [Stage 5: performing analysis on the integrated data](https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-5)
 
 
 
