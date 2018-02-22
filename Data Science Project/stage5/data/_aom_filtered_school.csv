@@ -1,0 +1,923 @@
+ipeds_aid,ipeds_name,ipeds_alias,ipeds_city,ipeds_prov,ipeds_web,GROFFER,CCSIZSET,INSTSIZE,CBSATYPE
+100663,university of alabama at birmingham,0,birmingham,alabama,www.uab.edu,1,15,4,1
+100706,university of alabama in huntsville,uah |university of alabama huntsville,huntsville,alabama,www.uah.edu,1,12,3,1
+100751,the university of alabama,0,tuscaloosa,alabama,www.ua.edu/,1,16,5,1
+100830,auburn university at montgomery,aum|auburn university montgomery|auburn university at montgomery|auburn montgomery,montgomery,alabama,www.aum.edu,1,12,3,1
+100858,auburn university,0,auburn university,alabama,www.auburn.edu,1,15,5,1
+101480,jacksonville state university,0,jacksonville,alabama,www.jsu.edu/,1,12,3,1
+101541,judson college,0,marion,alabama,www.judson.edu,2,7,1,-2
+101709,university of montevallo,0,montevallo,alabama,www.montevallo.edu,1,10,2,1
+102049,samford university,0,birmingham,alabama,www.samford.edu,1,14,2,1
+102094,university of south alabama,0,mobile,alabama,www.southalabama.edu,1,15,4,1
+102234,spring hill college,springhill|springhill college|shc|the hill,mobile,alabama,www.shc.edu,1,11,2,1
+102368,troy university,troy,troy,alabama,www.troy.edu,1,16,4,2
+102377,tuskegee university,0,tuskegee,alabama,www.tuskegee.edu,1,11,2,-2
+102553,university of alaska anchorage,uaa,anchorage,alaska,www.uaa.alaska.edu,1,12,4,1
+102614,university of alaska fairbanks,uaf,fairbanks,alaska,www.uaf.edu,1,13,3,1
+102632,university of alaska southeast,0,juneau,alaska,www.uas.alaska.edu,1,9,2,2
+103778,thunderbird school of global management,thunderbird,glendale,arizona,www.thunderbird.edu,1,-2,1,1
+104151,arizona state university tempe,asu tempe,tempe,arizona,www.asu.edu/,1,15,5,1
+104179,university of arizona,ua|u of a|arizona|uofa|the university of arizona|university of arizona|university of az|az|univ. of arizona|univ. of az|tucson|tucson  az|the university of arizona|the univ. of az|the u of az|the u of az|ariz.|arizona university|az+university|85721|az+univ|az university|,tucson,arizona,www.arizona.edu,1,15,5,1
+104717,grand canyon university,0,phoenix,arizona,www.gcu.edu,1,15,5,1
+105330,northern arizona university,nau,flagstaff,arizona,nau.edu/,1,16,5,1
+106102,western international university,west,tempe,arizona,www.west.edu,1,9,2,1
+106245,university of arkansas at little rock,ualr|university of arkansas-little rock|arkansas little rock|,little rock,arkansas,ualr.edu/www/,1,12,4,1
+106263,university of arkansas for medical sciences,uams,little rock,arkansas,www.uams.edu,1,-2,2,1
+106342,lyon college,0,batesville,arkansas,www.lyon.edu,2,8,1,2
+106397,university of arkansas,university of arkansas|arkansas,fayetteville,arkansas,www.uark.edu,1,16,5,1
+106458,arkansas state university main campus,arkansas state university-jonesboro,jonesboro,arkansas,www2.astate.edu,1,12,4,1
+106704,university of central arkansas,0,conway,arkansas,www.uca.edu,1,13,4,1
+107071,henderson state university,0,arkadelphia,arkansas,www.hsu.edu,1,13,2,2
+107512,ouachita baptist university,obu,arkadelphia,arkansas,www.obu.edu,2,11,2,2
+107600,philander smith college,psc,little rock,arkansas,www.philander.edu,2,7,1,1
+110316,california institute of integral studies,ciis,san francisco,california,www.ciis.edu,1,9,2,1
+110370,california college of the arts,0,san francisco,california,www.cca.edu,1,-2,2,1
+110398,university of california hastings college of law,0,san francisco,california,www.uchastings.edu,1,-2,2,1
+110404,california institute of technology,caltech|cal tech,pasadena,california,www.caltech.edu,1,11,2,1
+110413,california lutheran university,0,thousand oaks,california,www.callutheran.edu/,1,14,2,1
+110422,california polytechnic state university san luis obispo,cal poly,san luis obispo,california,calpoly.edu,1,16,5,1
+110468,alliant international university san diego,0,san diego,california,www.alliant.edu,1,13,2,1
+110486,california state university bakersfield,csu bakersfield,bakersfield,california,www.csub.edu,1,12,3,1
+110495,california state university stanislaus,csu stanislaus,turlock,california,www.csustan.edu,1,12,3,1
+110510,california state university san bernardino,0,san bernardino,california,www.csusb.edu,1,15,4,1
+110529,california state polytechnic university pomona,0,pomona,california,www.csupomona.edu,1,15,5,1
+110538,california state university chico,0,chico,california,www.csuchico.edu,1,15,4,1
+110547,california state university dominguez hills,csudh,carson,california,www.csudh.edu,1,15,4,1
+110556,california state university fresno,0,fresno,california,www.csufresno.edu,1,15,5,1
+110565,california state university fullerton,cal state fullerton,fullerton,california,www.fullerton.edu,1,15,5,1
+110574,california state university east bay,cal state east bay,hayward,california,www.csueastbay.edu,1,15,4,1
+110583,california state university long beach,cal state long beach,long beach,california,www.csulb.edu,1,15,5,1
+110592,california state university los angeles,0,los angeles,california,www.calstatela.edu,1,15,5,1
+110608,california state university northridge,0,northridge,california,www.csun.edu,1,15,5,1
+110617,california state university sacramento,sacramento state,sacramento,california,www.csus.edu,1,15,5,1
+110635,university of california berkeley,uc berkeley,berkeley,california,www.berkeley.edu,1,16,5,1
+110644,university of california davis,uc davis,davis,california,www.ucdavis.edu,1,16,5,1
+110653,university of california irvine,uci |uc irvine,irvine,california,www.uci.edu/,1,16,5,1
+110662,university of california los angeles,ucla,los angeles,california,www.ucla.edu/,1,16,5,1
+110671,university of california riverside,uc riverside,riverside,california,www.ucr.edu,1,16,5,1
+110680,university of california san diego,ucsd |uc san diego,la jolla,california,www.ucsd.edu,1,16,5,1
+110699,university of california san francisco,ucsf |uc san francisco |university of california at san francisco |university of california  san francisco,san francisco,california,www.ucsf.edu,1,-2,2,1
+110705,university of california santa barbara,ucsb |uc santa barbara,santa barbara,california,www.ucsb.edu,1,16,5,1
+110714,university of california santa cruz,0,santa cruz,california,www.ucsc.edu/,1,16,4,1
+111948,chapman university,0,orange,california,www.chapman.edu,1,13,3,1
+112075,concordia university irvine,concordia university irvine,irvine,california,www.cui.edu,1,11,2,1
+112251,claremont graduate university,0,claremont,california,www.cgu.edu,1,18,2,1
+112260,claremont mckenna college,0,claremont,california,www.claremontmckenna.edu/,1,11,2,1
+113698,dominican university of california,duofc,san rafael,california,www.dominican.edu,1,10,2,1
+114549,fielding graduate university,fielding|fielding institute|fielding graduate institute,santa barbara,california,www.fielding.edu,1,18,2,1
+115083,golden gate university san francisco,0,san francisco,california,www.ggu.edu,1,9,2,1
+117104,life pacific college,life bible college,san dimas,california,www.lifepacific.edu,1,-2,1,1
+117140,university of la verne,la verne,la verne,california,www.laverne.edu/,1,13,3,1
+117636,loma linda university,0,loma linda,california,www.llu.edu/index.html,1,-2,2,1
+117946,loyola marymount university,0,los angeles,california,www.lmu.edu,1,14,3,1
+118693,menlo college,menlo,atherton,california,www.menlo.edu,2,8,1,1
+119058,middlebury institute of international studies at monterey,monterey institute,monterey,california,www.miis.edu,1,6,1,1
+119173,mount saint mary university,0,los angeles,california,www.msmc.la.edu,1,10,2,1
+119544,the national hispanic university,nhu,san jose,california,www.nhu.edu,1,6,1,1
+119605,national university,0,la jolla,california,www.nu.edu,1,15,4,1
+119678,naval postgraduate school,0,monterey,california,www.nps.edu,1,18,2,1
+120254,occidental college,oxy,los angeles,california,www.oxy.edu,1,11,2,1
+120698,palo alto university,pacific graduate school of psychology,palo alto,california,www.paloaltou.edu,1,-2,2,1
+120883,university of the pacific,pacific | uop | university of pacific | pacific university | u. pacific | univ. of pacific | u. of pacific,stockton,california,www.pacific.edu,1,14,3,1
+121150,pepperdine university,0,malibu,california,www.pepperdine.edu/,1,14,3,1
+121257,pitzer college,pitzer|pfizer|pz|ptz|pit,claremont,california,www.pitzer.edu,2,11,2,1
+121691,university of redlands,0,redlands,california,www.redlands.edu,1,14,3,1
+122409,san diego state university,0,san diego,california,www.sdsu.edu,1,15,5,1
+122436,university of san diego,usd,san diego,california,www.sandiego.edu,1,13,3,1
+122597,san francisco state university,0,san francisco,california,www.sfsu.edu,1,15,5,1
+122612,university of san francisco,0,san francisco,california,www.usfca.edu/,1,13,4,1
+122755,san jose state university,0,san jose,california,www.sjsu.edu,1,15,5,1
+122931,santa clara university,scu,santa clara,california,www.scu.edu,1,13,3,1
+123095,saybrook university,0,san francisco,california,www.saybrook.edu,1,-2,1,1
+123554,saint mary college of california,st. marys college of california | st marys college of california,moraga,california,www.stmarys-ca.edu,1,14,2,1
+123572,sonoma state university,0,rohnert park,california,www.sonoma.edu,1,13,3,1
+123961,university of southern california,usc,los angeles,california,www.usc.edu/,1,16,5,1
+125231,walden university,0,minneapolis,minnesota,www.waldenu.edu,1,15,5,1
+125897,woodbury university,0,burbank,california,woodbury.edu/,1,9,2,1
+126562,university of colorado denver/anschutz medical campus,university of colorado denver |cu denver |ucd,denver,colorado,www.ucdenver.edu/,1,15,5,1
+126580,university of colorado colorado springs,uccs,colorado springs,colorado,www.uccs.edu,1,12,4,1
+126614,university of colorado boulder,u of colorado|univ of colorado|university of colorado|u of co|univ of co|university of co|boulder|cu|cu-boulder|ucb|cub|colorado|colorado university|u of colo|univ of colo|university of colo|colo|buffs|buffalos|buffaloes|cu at boulder|golden buffs|university of colorado at boulder,boulder,colorado,www.colorado.edu,1,15,5,1
+126669,colorado christian university,ccu,lakewood,colorado,www.ccu.edu,1,10,3,1
+126678,colorado college,0,colorado springs,colorado,www.coloradocollege.edu,1,11,2,1
+126775,colorado school of mines,mines,golden,colorado,www.mines.edu,1,13,3,1
+126818,colorado state university fort collins,0,fort collins,colorado,www.colostate.edu,1,16,5,1
+126827,colorado technical university colorado springs,colorado tech |ctu,colorado springs,colorado,www.coloradotech.edu/colorado-springs,1,9,2,1
+127060,university of denver,du,denver,colorado,www.du.edu,1,13,4,1
+127185,fort lewis college,flc,durango,colorado,fortlewis.edu/,1,13,2,2
+127565,metropolitan state university of denver,0,denver,colorado,www.msudenver.edu/,1,15,5,1
+127653,naropa university,0,boulder,colorado,www.naropa.edu,1,6,1,1
+127699,national american university denver,0,denver,colorado,www.national.edu/locations/colorado/denver,2,6,1,1
+127741,university of northern colorado,0,greeley,colorado,www.unco.edu,1,16,4,1
+127918,regis university,regis/regis college/ru/jesuit/jesuit denver colorado/regis nursing/college for professional studies/rhchp/rangers/regis u/regis in colorado/rueckert-hartman college for health professions,denver,colorado,www.regis.edu/,1,12,3,1
+128106,colorado state university pueblo,csu-pueblo,pueblo,colorado,www.colostate-pueblo.edu,1,12,3,1
+128328,united states air force academy,0,usafa,colorado,www.usafa.edu,2,14,2,1
+128391,western state colorado university,0,gunnison,colorado,www.western.edu,1,10,2,-2
+128744,university of bridgeport,0,bridgeport,connecticut,www.bridgeport.edu,1,13,3,1
+128771,central connecticut state university,ccsu,new britain,connecticut,www.ccsu.edu,1,12,4,1
+129020,university of connecticut,0,storrs,connecticut,uconn.edu/,1,17,5,1
+129215,eastern connecticut state university,eastern|ecsu,willimantic,connecticut,www.easternct.edu/,1,14,3,1
+129242,fairfield university,0,fairfield,connecticut,fairfield.edu/,1,14,3,1
+129525,university of hartford,uhart  uha  hartford,west hartford,connecticut,www.hartford.edu,1,14,3,1
+129941,university of new haven,unh,west haven,connecticut,www.newhaven.edu,1,13,3,1
+130226,quinnipiac university,0,hamden,connecticut,www.quinnipiac.edu,1,14,3,1
+130253,sacred heart university,shu,fairfield,connecticut,www.sacredheart.edu,1,14,3,1
+130493,southern connecticut state university,scsu,new haven,connecticut,www.southernct.edu,1,13,4,1
+130697,wesleyan university,0,middletown,connecticut,www.wesleyan.edu,1,14,2,1
+130776,western connecticut state university,western  wcsu,danbury,connecticut,www.wcsu.edu,1,13,3,1
+130794,yale university,0,new haven,connecticut,www.yale.edu,1,17,4,1
+130934,delaware state university,0,dover,delaware,www.desu.edu,1,14,2,1
+130943,university of delaware,ud,newark,delaware,www.udel.edu/,1,16,5,1
+131098,wesley college,0,dover,delaware,www.wesley.edu,1,11,2,1
+131113,wilmington university,0,new castle,delaware,www.wilmu.edu,1,12,4,1
+131159,american university,0,washington,district of columbia,www.american.edu,1,17,4,1
+131283,catholic university of america,0,washington,district of columbia,www.cua.edu,1,14,3,1
+131469,george washington university,gwu|gw,washington,district of columbia,www.gwu.edu,1,17,5,1
+131496,georgetown university,georgetown|gu,washington,district of columbia,www.georgetown.edu,1,17,4,1
+131520,howard university,0,washington,district of columbia,www.howard.edu,1,14,4,1
+132471,barry university,0,miami,florida,www.barry.edu,1,13,3,1
+132602,bethune cookman university,bethune-cookman |bethune-cookman college |bethune |cookman |bcc |b-cc |b-cu,daytona beach,florida,www.cookman.edu,1,14,2,1
+132657,lynn university,the fighting knights,boca raton,florida,www.lynn.edu,1,10,2,1
+132903,university of central florida,ucf,orlando,florida,www.ucf.edu/,1,15,5,1
+133492,eckerd college,0,saint petersburg,florida,www.eckerd.edu,2,11,2,1
+133553,embry riddle aeronautical university daytona beach,embry riddle aeronautical university-daytona beach,daytona beach,florida,www.erau.edu,1,13,3,1
+133650,florida agricultural and mechanical university,famu|florida a&m university|florida a&m university |rattlers|famu rattlers,tallahassee,florida,www.famu.edu,1,17,4,1
+133669,florida atlantic university,fau,boca raton,florida,www.fau.edu/,1,15,5,1
+133711,flagler college st augustine,flagler,saint augustine,florida,www.flagler.edu,2,10,2,1
+133881,florida institute of technology,florida tech,melbourne,florida,www.fit.edu,1,14,3,1
+133951,florida international university,fiu,miami,florida,www.fiu.edu,1,15,5,1
+134079,florida southern college,florida southern|fsc,lakeland,florida,www.flsouthern.edu,1,11,2,1
+134097,florida state university,florida state|f.s.u.|fsu|f. s. u.|fla. state university|fla. state|fl state university|fl state|fl state university|fl state|seminoles|noles|florida state seminoles|florida state university seminoles|fl. state|fl. state university|the florida state university|floridia state university|florda state university|florida state univerisity|flordia state university|florida state unversity|,tallahassee,florida,www.fsu.edu,1,15,5,1
+134130,university of florida,0,gainesville,florida,www.ufl.edu/,1,16,5,1
+134945,jacksonville university,ju,jacksonville,florida,www.jacksonville.edu,1,10,2,1
+135081,keiser university ft lauderdale,0,fort lauderdale,florida,www.keiseruniversity.edu,1,15,4,1
+135726,university of miami,0,coral gables,florida,www.miami.edu/,1,16,4,1
+136172,university of north florida,unf,jacksonville,florida,www.unf.edu,1,15,4,1
+136206,northwood university florida,0,west palm beach,florida,www.northwood.edu,1,-2,1,1
+136215,nova southeastern university,0,fort lauderdale,florida,www.nova.edu,1,15,5,1
+136330,palm beach atlantic university,palm beach atlantic |pba,west palm beach,florida,www.pba.edu,1,11,2,1
+136358,palm beach state college,0,lake worth,florida,www.palmbeachstate.edu/,2,5,5,1
+136950,rollins college,rollins,winter park,florida,www.rollins.edu,1,11,2,1
+137032,saint leo university,st. leo university  |st leo university,saint leo,florida,www.saintleo.edu,1,16,4,1
+137148,argosy university sarasota,0,sarasota,florida,www.argosy.edu/sarasota/,1,9,1,1
+137351,university of south florida main campus,usf main campus |usf tampa campus |usf tampa,tampa,florida,www.usf.edu,1,15,5,1
+137476,st thomas university,st. thomas university |st thomas university |saint thomas university,miami gardens,florida,www.stu.edu,1,9,2,1
+137546,stetson university,0,deland,florida,www.stetson.edu,1,14,2,1
+137564,southeastern university,0,lakeland,florida,www.seu.edu/,1,11,2,1
+137847,the university of tampa,0,tampa,florida,www.ut.edu,1,14,3,1
+138354,the university of west florida,0,pensacola,florida,uwf.edu,1,12,4,1
+138600,agnes scott college,0,decatur,georgia,www.agnesscott.edu,2,8,1,1
+138716,albany state university,0,albany,georgia,www.asurams.edu/,1,13,2,1
+138947,clark atlanta university,cau,atlanta,georgia,www.cau.edu,1,13,2,1
+139144,berry college,0,mount berry,georgia,www.berry.edu,1,11,2,1
+139311,clayton  state university,0,morrow,georgia,www.clayton.edu,1,12,3,1
+139366,columbus state university,csu  columbus state,columbus,georgia,www.columbusstate.edu,1,12,3,1
+139463,dalton state college,dsc,dalton,georgia,www.daltonstate.edu/,2,12,2,1
+139658,emory university,0,atlanta,georgia,www.emory.edu,1,17,4,1
+139755,georgia institute of technology main campus,georgia tech,atlanta,georgia,www.gatech.edu,1,17,5,1
+139764,georgia southwestern state university,gsw  georgia southwestern,americus,georgia,gsw.edu/main/,1,10,2,2
+139861,georgia college and state university,georgia college,milledgeville,georgia,www.gcsu.edu,1,13,3,2
+139931,georgia southern university,0,statesboro,georgia,www.georgiasouthern.edu,1,16,5,2
+139940,georgia state university,0,atlanta,georgia,www.gsu.edu,1,15,5,1
+139959,university of georgia,0,athens,georgia,www.uga.edu,1,16,5,1
+140164,kennesaw state university,ksu,kennesaw,georgia,www.kennesaw.edu,1,15,5,1
+140447,mercer university,0,macon,georgia,www.mercer.edu,1,14,3,1
+140553,morehouse college,0,atlanta,georgia,www.morehouse.edu,2,11,2,1
+140818,piedmont college,0,demorest,georgia,www.piedmont.edu,1,10,2,2
+140872,reinhardt university,0,waleska,georgia,www.reinhardt.edu,1,10,2,1
+140960,savannah state university,0,savannah,georgia,www.savannahstate.edu/,1,13,2,1
+141097,southern polytechnic state university,0,marietta,georgia,www.spsu.edu/,1,12,3,1
+141264,valdosta state university,vsu |valdosta state |valdosta state college,valdosta,georgia,www.valdosta.edu,1,16,4,1
+141334,university of west georgia,0,carrollton,georgia,www.westga.edu,1,13,4,1
+141565,university of hawaii at hilo,uh at hilo |uhh,hilo,hawaii,hilo.hawaii.edu,1,13,2,2
+141574,university of hawaii at manoa,uh at manoa |uhm,honolulu,hawaii,manoa.hawaii.edu,1,15,4,1
+141644,hawaii pacific university,0,honolulu,hawaii,www.hpu.edu,1,12,3,1
+142115,boise state university,boise state,boise,idaho,www.boisestate.edu,1,15,5,1
+142276,idaho state university,isu,pocatello,idaho,www.isu.edu/,1,12,4,1
+142285,university of idaho,idaho,moscow,idaho,www.uidaho.edu,1,17,4,2
+142522,brigham young university idaho,byu-i,rexburg,idaho,www.byui.edu,2,15,5,2
+143084,augustana college,0,rock island,illinois,www.augustana.edu,2,11,2,1
+143358,bradley university,0,peoria,illinois,www.bradley.edu,1,14,3,1
+143978,the chicago school of professional psychology at chicago,0,chicago,illinois,www.thechicagoschool.edu,1,-2,2,1
+144050,university of chicago,0,chicago,illinois,www.uchicago.edu,1,17,4,1
+144281,columbia college chicago,0,chicago,illinois,www.colum.edu,1,15,3,1
+144351,concordia university chicago,concordia university chicago,river forest,illinois,www.cuchicago.edu,1,11,3,1
+144740,depaul university,0,chicago,illinois,www.depaul.edu,1,15,5,1
+144892,eastern illinois university,eiu|e.i.u.|eastern,charleston,illinois,www.eiu.edu,1,16,3,2
+144962,elmhurst college,0,elmhurst,illinois,public.elmhurst.edu,1,10,2,1
+145336,governors state university,gsu,university park,illinois,www.govst.edu,1,9,3,1
+145600,university of illinois at chicago,uic|u of i-chicago|illinois-chicago|u of i-medical center|university of illinois-medical center|,chicago,illinois,www.uic.edu/index.html/,1,15,5,1
+145619,benedictine university,0,lisle,illinois,www.ben.edu,1,13,3,1
+145637,university of illinois at urbana champaign,illinois|illinios|ilinois|ilinios|urbana|champaign|champagne|champaign-urbana|champagne-urbana|urbana-champaign|urbana-champagne|university of illinois at urbana|university of illinois at champaign|university of illinois at champagne|university of illinois at champaign-urbana|university of illinois at champagne-urbana|uiuc|uicu|university of illinois at uc|university of illinois at cu,champaign,illinois,www.illinois.edu/,1,16,5,1
+145725,illinois institute of technology,iit,chicago,illinois,www.iit.edu,1,13,3,1
+145813,illinois state university,0,normal,illinois,illinoisstate.edu/,1,16,5,1
+146427,knox college,0,galesburg,illinois,www.knox.edu,2,11,2,2
+146481,lake forest college,0,lake forest,illinois,www.lakeforest.edu,1,11,2,1
+146612,lewis university,lewis college |lewis college of science and technology |lewis school of aeronautics |lewis holy name school of aeronautics |lewis holy name technical school |holy name technical school,romeoville,illinois,www.lewisu.edu,1,13,3,1
+146719,loyola university chicago,0,chicago,illinois,www.luc.edu,1,16,4,1
+147244,millikin university,0,decatur,illinois,www.millikin.edu,1,11,2,1
+147341,monmouth college,0,monmouth,illinois,www.monmouthcollege.edu,2,11,2,-2
+147703,northern illinois university,0,dekalb,illinois,www.niu.edu,1,16,5,1
+147767,northwestern university,0,evanston,illinois,www.northwestern.edu,1,17,5,1
+147776,northeastern illinois university,0,chicago,illinois,www.neiu.edu/,1,12,4,1
+148487,roosevelt university,0,chicago,illinois,www.roosevelt.edu,1,12,3,1
+148496,dominican university,dominican,river forest,illinois,public.dom.edu/,1,10,2,1
+148511,rush university,rush university medical center,chicago,illinois,www.rushu.rush.edu,1,-2,2,1
+148584,university of st francis,0,joliet,illinois,www.stfrancis.edu,1,10,2,1
+148627,saint xavier university,st. xavier university  |st xavier university,chicago,illinois,www.sxu.edu,1,13,2,1
+148654,university of illinois at springfield,uis,springfield,illinois,www.uis.edu,1,13,3,1
+149222,southern illinois university carbondale,0,carbondale,illinois,www.siu.edu,1,16,4,1
+149231,southern illinois university edwardsville,siue,edwardsville,illinois,www.siue.edu,1,16,4,1
+149514,trinity international university illinois,0,deerfield,illinois,www.tiu.edu,1,11,2,1
+149772,western illinois university,0,macomb,illinois,www.wiu.edu,1,16,4,2
+150136,ball state university,bsu|ball u,muncie,indiana,www.bsu.edu,1,16,5,1
+150163,butler university,0,indianapolis,indiana,www.butler.edu,1,14,2,1
+150534,university of evansville,ue | aces | evansville | purple aces,evansville,indiana,www.evansville.edu/,1,11,2,1
+151102,indiana university purdue university fort wayne,ipfw|iupufw|purdue university-fort wayne|purdue-fort wayne|purdue fort wayne,fort wayne,indiana,www.ipfw.edu,1,12,4,1
+151111,indiana university purdue university indianapolis,iupui|iupu at indianapolis,indianapolis,indiana,www.iupui.edu,1,15,5,1
+151290,indiana institute of technology,indiana tech |iit,fort wayne,indiana,www.indianatech.edu,1,-2,3,1
+151306,university of southern indiana,0,evansville,indiana,www.usi.edu,1,13,3,1
+151324,indiana state university,indiana state |isu,terre haute,indiana,www.indstate.edu,1,13,4,1
+151333,indiana university kokomo,iu kokomo | iuk | iu ko,kokomo,indiana,www.iuk.edu,1,9,2,1
+151342,indiana university south bend,iusb | iu sb | iu south bend,south bend,indiana,iusb.edu/,1,12,3,1
+151351,indiana university bloomington,iu|iub|iu bloomington|,bloomington,indiana,www.iub.edu,1,16,5,1
+151360,indiana university northwest,iun | iu northwest,gary,indiana,www.iun.edu,1,12,3,1
+151379,indiana university southeast,iuse | iu se | iu southeast,new albany,indiana,ius.edu/,1,12,3,1
+151801,indiana wesleyan university marion,iwu,marion,indiana,www.indwes.edu,1,17,4,2
+152080,university of notre dame,notre dame | fighting irish | nd,notre dame,indiana,www.nd.edu,1,17,4,1
+152248,purdue university calumet campus,purdue-calumet|purdue calumet|purduecal|puc,hammond,indiana,www.purduecal.edu/,1,12,3,1
+152266,purdue university north central campus,purdue-north central|purdue-nc|purdue north central|pnc,westville,indiana,www.pnc.edu,1,12,3,1
+152318,rose hulman institute of technology,r-hit|rhit|rose polytechnic|rose polytechnic institute|rp|rpi|rose-hulman|rose hulman|rose-hulman institute|rose hulman institute|rose,terre haute,indiana,www.rose-hulman.edu,1,-2,2,1
+152336,university of saint francis fort wayne,university of saint francis of fort wayne  indiana |university of saint francis |saint francis college |university of st. francie-fort wayne  |university of st francie-fort wayne,fort wayne,indiana,www.sf.edu,1,9,2,1
+152390,saint mary college,st. mary's college  |st mary's college,notre dame,indiana,https://www.saintmarys.edu,2,11,2,1
+152600,valparaiso university,valpo|vu,valparaiso,indiana,valpo.edu,1,14,2,1
+152673,wabash college,0,crawfordsville,indiana,www.wabash.edu,2,8,1,2
+153269,drake university,drake,des moines,iowa,www.drake.edu,1,14,3,1
+153603,iowa state university,isu,ames,iowa,www.iastate.edu,1,16,5,1
+153658,university of iowa,iowa|ui,iowa city,iowa,www.uiowa.edu,1,16,5,1
+153861,maharishi university of management,0,fairfield,iowa,www.mum.edu,1,7,2,2
+154022,ashford university,0,clinton,iowa,www.ashford.edu,1,15,5,1
+154095,university of northern iowa,uni |panthers |northern iowa,cedar falls,iowa,www.uni.edu,1,16,4,1
+154235,saint ambrose university,st. ambrose university  |st ambrose university,davenport,iowa,www.sau.edu,1,14,2,1
+154527,wartburg college,0,waverly,iowa,www.wartburg.edu,2,11,2,1
+154590,william penn university,0,oskaloosa,iowa,www.wmpenn.edu,1,10,2,2
+154712,benedictine college,0,atchison,kansas,www.benedictine.edu,1,11,2,2
+155025,emporia state university,esu |e-state,emporia,kansas,www.emporia.edu,1,12,3,2
+155061,fort hays state university,0,hays,kansas,www.fhsu.edu,1,12,4,2
+155317,university of kansas,university of kansas | univ of kansas | kansas university | ku | kansas jayhawks | univ of ks |university of ks | kansas univ | kansas u  kumc  university of kansas medical center  ku medical center  kansas university medical center,lawrence,kansas,www.ku.edu,1,15,5,1
+155399,kansas state university,k-state,manhattan,kansas,www.k-state.edu,1,16,5,1
+155681,pittsburg state university,pitt state,pittsburg,kansas,www.pittstate.edu,1,12,3,2
+156082,washburn university,0,topeka,kansas,www.washburn.edu,1,12,3,1
+156125,wichita state university,wsu,wichita,kansas,www.wichita.edu,1,15,4,1
+156295,berea college,0,berea,kentucky,www.berea.edu,2,11,2,2
+156620,eastern kentucky university,eastern |eku,richmond,kentucky,www.eku.edu,1,16,4,2
+157058,kentucky state university,ky state,frankfort,kentucky,www.kysu.edu,1,10,2,2
+157076,kentucky wesleyan college,kwc,owensboro,kentucky,www.kwc.edu,2,7,1,1
+157085,university of kentucky,0,lexington,kentucky,www.uky.edu,1,16,5,1
+157289,university of louisville,0,louisville,kentucky,www.louisville.edu,1,15,5,1
+157386,morehead state university,0,morehead,kentucky,www.moreheadstate.edu,1,13,4,-2
+157447,northern kentucky university,nku,highland heights,kentucky,www.nku.edu,1,15,4,1
+157951,western kentucky university,wku  hilltoppers,bowling green,kentucky,www.wku.edu,1,16,5,1
+158477,centenary college of louisiana,0,shreveport,louisiana,www.centenary.edu,1,8,1,1
+159009,grambling state university,gsu  grambling,grambling,louisiana,www.gram.edu,1,13,2,2
+159391,louisiana state university and agricultural   mechanical college,louisiana state university|lsu,baton rouge,louisiana,www.lsu.edu,1,16,5,1
+159416,louisiana state university shreveport,lsus,shreveport,louisiana,www.lsus.edu/,1,9,2,1
+159647,louisiana tech university,la tech  louisiana tech  tech,ruston,louisiana,www.latech.edu,1,13,4,2
+159656,loyola university new orleans,0,new orleans,louisiana,www.loyno.edu,1,13,2,1
+159717,mcneese state university,mcneese,lake charles,louisiana,www.mcneese.edu,1,12,3,1
+159939,university of new orleans,uno,new orleans,louisiana,www.uno.edu,1,12,3,1
+159966,nicholls state university,0,thibodaux,louisiana,www.nicholls.edu,1,12,3,1
+160612,southeastern louisiana university,southeastern,hammond,louisiana,www.selu.edu,1,15,4,1
+160621,southern university and a   m college,0,baton rouge,louisiana,www.subr.edu,1,13,3,1
+160658,university of louisiana at lafayette,ul lafayette,lafayette,louisiana,www.louisiana.edu,1,15,4,1
+160755,tulane university of louisiana,0,new orleans,louisiana,tulane.edu,1,13,4,1
+160904,xavier university of louisiana,0,new orleans,louisiana,www.xula.edu,1,13,2,1
+161253,university of maine,0,orono,maine,www.umaine.edu/,1,13,4,1
+161457,university of new england,0,biddeford,maine,www.une.edu/,1,13,3,1
+161518,saint joseph college of maine,0,standish,maine,www.sjcme.edu,1,10,2,1
+161554,university of southern maine,0,portland,maine,www.usm.maine.edu,1,12,3,1
+161873,university of baltimore,ub,baltimore,maryland,www.ubalt.edu,1,12,3,1
+162584,frostburg state university,0,frostburg,maryland,www.frostburg.edu,1,13,3,1
+162760,hood college,hood,frederick,maryland,www.hood.edu,1,11,2,1
+162928,johns hopkins university,0,baltimore,maryland,www.jhu.edu,1,17,5,1
+163046,loyola university maryland,0,baltimore,maryland,www.loyola.edu,1,14,3,1
+163204,university of maryland university college,umuc,adelphi,maryland,www.umuc.edu,1,15,5,1
+163268,university of maryland baltimore county,umbc,baltimore,maryland,www.umbc.edu,1,16,4,1
+163286,university of maryland college park,0,college park,maryland,www.umd.edu,1,16,5,1
+163338,university of maryland eastern shore,umes,princess anne,maryland,www.umes.edu,1,14,2,1
+163453,morgan state university,0,baltimore,maryland,www.morgan.edu,1,13,3,1
+163851,salisbury university,su|salisbury,salisbury,maryland,www.salisbury.edu,1,13,3,1
+164076,towson university,0,towson,maryland,www.towson.edu,1,16,5,1
+164173,stevenson university,0,stevenson,maryland,www.stevenson.edu,1,10,2,1
+164368,hult international business school,0,cambridge,massachusetts,www.hult.edu,1,-3,1,1
+164474,andover newton theological school,ants,newton centre,massachusetts,www.ants.edu,1,-2,1,1
+164562,assumption college,0,worcester,massachusetts,www.assumption.edu,1,11,2,1
+164580,babson college,0,wellesley,massachusetts,www.babson.edu,1,-2,2,1
+164739,bentley university,bentley,waltham,massachusetts,www.bentley.edu,1,14,3,1
+164924,boston college,0,chestnut hill,massachusetts,www.bc.edu,1,17,4,1
+164988,boston university,bu|boston u,boston,massachusetts,www.bu.edu,1,17,5,1
+165015,brandeis university,0,waltham,massachusetts,www.brandeis.edu/,1,14,3,1
+165024,bridgewater state university,bsu|bridgewater state,bridgewater,massachusetts,www.bridgew.edu,1,13,4,1
+165334,clark university,0,worcester,massachusetts,www.clarku.edu,1,14,2,1
+165662,emerson college,0,boston,massachusetts,www.emerson.edu,1,14,2,1
+165671,emmanuel college,0,boston,massachusetts,www.emmanuel.edu,1,11,2,1
+165820,fitchburg state university,fitchburg state,fitchburg,massachusetts,www.fitchburgstate.edu,1,13,3,1
+165866,framingham state university,0,framingham,massachusetts,www.framingham.edu/index.html,1,14,3,1
+166027,harvard university,0,cambridge,massachusetts,www.harvard.edu,1,17,5,1
+166452,lesley university,0,cambridge,massachusetts,www.lesley.edu,1,14,2,1
+166513,university of massachusetts lowell,0,lowell,massachusetts,www.uml.edu,1,13,4,1
+166629,university of massachusetts amherst,umass amherst,amherst,massachusetts,www.umass.edu,1,17,5,1
+166638,university of massachusetts boston,0,boston,massachusetts,www.umb.edu,1,15,4,1
+166683,massachusetts institute of technology,mit |m.i.t.,cambridge,massachusetts,web.mit.edu/student/,1,17,4,1
+166717,william james college,mspp,newton,massachusetts,www.mspp.edu,1,-2,1,1
+166850,merrimack college,merrimack,north andover,massachusetts,www.merrimack.edu,1,11,2,1
+167358,northeastern university,0,boston,massachusetts,www.northeastern.edu,1,17,4,1
+167729,salem state university,0,salem,massachusetts,www.salemstate.edu,1,12,3,1
+167783,simmons college,0,boston,massachusetts,www.simmons.edu,1,13,2,1
+167792,bard college at simon rock,simon's rock,great barrington,massachusetts,www.simons-rock.edu/,2,8,1,1
+167987,university of massachusetts dartmouth,umass dartmouth,north dartmouth,massachusetts,www.umassd.edu,1,14,3,1
+167996,stonehill college,0,easton,massachusetts,www.stonehill.edu,2,11,2,1
+168005,suffolk university,0,boston,massachusetts,www.suffolk.edu,1,12,3,1
+168148,tufts university,0,medford,massachusetts,www.tufts.edu,1,14,4,1
+168218,wellesley college,0,wellesley,massachusetts,www.wellesley.edu,2,11,2,1
+168254,western new england university,0,springfield,massachusetts,www.wne.edu,1,14,2,1
+168263,westfield state university,0,westfield,massachusetts,www.westfield.ma.edu,1,14,3,1
+168421,worcester polytechnic institute,wpi,worcester,massachusetts,www.wpi.edu,1,14,3,1
+168430,worcester state university,0,worcester,massachusetts,www.worcester.edu,1,12,3,1
+168546,albion college,0,albion,michigan,www.albion.edu,2,11,2,1
+168740,andrews university,0,berrien springs,michigan,www.andrews.edu,1,11,2,1
+168786,aquinas college,aq,grand rapids,michigan,www.aquinas.edu,1,10,2,1
+168847,baker college,0,flint,michigan,www.baker.edu,1,12,2,1
+169080,calvin college,0,grand rapids,michigan,www.calvin.edu,1,14,2,1
+169248,central michigan university,0,mount pleasant,michigan,www.cmich.edu,1,16,5,2
+169716,university of detroit mercy,detroit mercy  udm  u of d  university of detroit,detroit,michigan,www.udmercy.edu,1,12,2,1
+169798,eastern michigan university,0,ypsilanti,michigan,www.emich.edu,1,15,5,1
+169910,ferris state university,0,big rapids,michigan,www.ferris.edu/,1,16,4,2
+169983,kettering university,gmi engineering & management institute,flint,michigan,www.kettering.edu,1,10,2,1
+170082,grand valley state university,grand valley|gvsu|grand valley state|,allendale,michigan,www.gvsu.edu,1,16,5,1
+170301,hope college,0,holland,michigan,www.hope.edu,2,14,2,1
+170675,lawrence technological university,0,southfield,michigan,www.ltu.edu,1,9,2,1
+170806,madonna university,0,livonia,michigan,www.madonna.edu,1,9,2,1
+170976,university of michigan ann arbor,u of michigan|u of m|univ of michigan|u michigan ann arbor|university of michigan ann arbor,ann arbor,michigan,www.umich.edu,1,16,5,1
+171100,michigan state university,msu|spartans|mi state university|state|mi state u,east lansing,michigan,www.msu.edu,1,16,5,1
+171128,michigan technological university,michigan tech|mtu|michigan tech university|mich tech|michigan technological univ|michigan tech univ,houghton,michigan,www.mtu.edu,1,13,3,2
+171137,university of michigan dearborn,umd,dearborn,michigan,www.umd.umich.edu/,1,12,3,1
+171146,university of michigan flint,um-flint,flint,michigan,www.umflint.edu,1,12,3,1
+171571,oakland university,oakland|ou|o.u.,rochester hills,michigan,www.oakland.edu,1,15,5,1
+172051,saginaw valley state university,0,university center,michigan,www.svsu.edu,1,13,3,1
+172334,spring arbor university,sau | sac | spring arbor college | spring arber unviversity | spring arbor | spring arber | spring arbor collage,spring arbor,michigan,www.arbor.edu,1,13,2,1
+172477,western michigan university thomas m  cooley law school,cooley law school,lansing,michigan,www.cooley.edu,1,-2,2,1
+172608,walsh college of accountancy and business administration,walsh college,troy,michigan,www.walshcollege.edu,1,-2,2,1
+172644,wayne state university,wsu,detroit,michigan,www.wayne.edu,1,15,5,1
+172699,western michigan university,wmu,kalamazoo,michigan,www.wmich.edu,1,15,5,1
+173045,augsburg college,0,minneapolis,minnesota,www.augsburg.edu,1,14,2,1
+173124,bemidji state university,0,bemidji,minnesota,www.bemidjistate.edu,1,13,2,2
+173160,bethel university,0,saint paul,minnesota,www.bethel.edu,1,14,2,1
+173300,concordia college at moorhead,0,moorhead,minnesota,www.cord.edu,1,11,2,1
+173647,gustavus adolphus college,0,saint peter,minnesota,www.gustavus.edu,2,11,2,1
+173665,hamline university,0,saint paul,minnesota,www.hamline.edu,1,13,2,1
+173902,macalester college,0,saint paul,minnesota,www.macalester.edu,2,11,2,1
+173920,minnesota state university mankato,0,mankato,minnesota,www.mnsu.edu,1,16,4,1
+173957,mayo medical school,0,rochester,minnesota,www.mayo.edu/mms/,1,-2,1,1
+174020,metropolitan state university,0,saint paul,minnesota,www.metrostate.edu,1,12,3,1
+174066,university of minnesota twin cities,0,minneapolis,minnesota,www1.umn.edu/twincities/index.php,1,15,5,1
+174233,university of minnesota duluth,0,duluth,minnesota,www.d.umn.edu/,1,13,4,1
+174251,university of minnesota morris,0,morris,minnesota,www.morris.umn.edu/,2,11,2,-2
+174358,minnesota state university moorhead,msu moorhead |msum,moorhead,minnesota,www.mnstate.edu,1,12,3,1
+174783,saint cloud state university,st. cloud state university; st. cloud state; scsu,saint cloud,minnesota,www.stcloudstate.edu,1,15,4,1
+174817,saint mary university of minnesota,0,winona,minnesota,www.smumn.edu,1,13,3,2
+174914,university of st thomas,university of saint thomas |ust,saint paul,minnesota,www.stthomas.edu,1,13,4,1
+175078,southwest minnesota state university,0,marshall,minnesota,www.smsu.edu,1,9,3,2
+175272,winona state university,0,winona,minnesota,www.winona.edu,1,13,3,2
+175421,belhaven university,0,jackson,mississippi,www.belhaven.edu,1,10,2,1
+175616,delta state university,0,cleveland,mississippi,www.deltastate.edu,1,13,2,2
+175856,jackson state university,0,jackson,mississippi,www.jsums.edu,1,13,3,1
+175980,millsaps college,millsaps,jackson,mississippi,www.millsaps.edu,1,11,1,1
+176017,university of mississippi,ole miss,university,mississippi,www.olemiss.edu,1,16,5,2
+176080,mississippi state university,0,mississippi state,mississippi,www.msstate.edu/,1,16,5,2
+176372,university of southern mississippi,0,hattiesburg,mississippi,www.usm.edu,1,16,4,1
+176628,avila university,0,kansas city,missouri,www.avila.edu,1,9,2,1
+176965,university of central missouri,central,warrensburg,missouri,www.ucmo.edu,1,13,4,2
+177214,drury university,0,springfield,missouri,www.drury.edu,1,13,2,1
+178059,maryville university of saint louis,0,saint louis,missouri,www.maryville.edu,1,9,3,1
+178387,missouri western state university,western|mwsu|mwsc|missouri western state college,saint joseph,missouri,missouriwestern.edu,1,12,3,1
+178396,university of missouri columbia,0,columbia,missouri,missouri.edu/,1,16,5,1
+178402,university of missouri kansas city,0,kansas city,missouri,www.umkc.edu/,1,15,4,1
+178411,missouri university of science and technology,0,rolla,missouri,www.mst.edu/,1,14,3,2
+178420,university of missouri st louis,0,saint louis,missouri,www.umsl.edu/,1,12,4,1
+178615,truman state university,0,kirksville,missouri,www.truman.edu,1,13,3,2
+178721,park university,0,parkville,missouri,www.park.edu,1,12,4,1
+179043,rockhurst university,rockhurst,kansas city,missouri,www.rockhurst.edu,1,11,2,1
+179159,saint louis university,0,saint louis,missouri,www.slu.edu,1,17,4,1
+179557,southeast missouri state university,0,cape girardeau,missouri,www.semo.edu,1,13,4,1
+179566,missouri state university springfield,0,springfield,missouri,www.missouristate.edu,1,16,5,1
+179867,washington university in st louis,wustl |washington u |washu |washington  st. louis |washington university in st. louis |washington university  st. louis |washu |wash-u |wash u |wash. u.,saint louis,missouri,www.wustl.edu,1,17,4,1
+179894,webster university,,saint louis,missouri,www.webster.edu,1,15,4,1
+179894,webster university,0,saint louis,missouri,www.webster.edu,1,15,4,1
+180179,montana state university billings,msu billings,billings,montana,www.msubillings.edu,1,9,2,1
+180461,montana state university,msu,bozeman,montana,www.montana.edu/,1,16,4,2
+180489,the university of montana,0,missoula,montana,www.umt.edu,1,15,4,1
+180814,bellevue university,0,bellevue,nebraska,bellevue.edu,1,12,3,1
+181002,creighton university,0,omaha,nebraska,www.creighton.edu,1,14,3,1
+181215,university of nebraska at kearney,unk|university of nebraska - kearney|nebraska - kearney|nebraska kearney|,kearney,nebraska,www.unk.edu,1,13,3,2
+181394,university of nebraska at omaha,unomaha,omaha,nebraska,www.unomaha.edu,1,15,4,1
+181428,university of nebraska medical center,unmc,omaha,nebraska,www.unmc.edu,1,-2,2,1
+181464,university of nebraska lincoln,0,lincoln,nebraska,www.unl.edu/,1,16,5,1
+182281,university of nevada las vegas,unlv,las vegas,nevada,go.unlv.edu/,1,15,5,1
+182290,university of nevada reno,0,reno,nevada,www.unr.edu/,1,15,4,1
+182661,daniel webster college,dwc,nashua,new hampshire,www.dwc.edu,1,8,1,1
+182670,dartmouth college,dartmouth  big green,hanover,new hampshire,www.dartmouth.edu,1,14,3,2
+182795,franklin pierce university,franklin pierce college  franklin pierce  fpu  pierce,rindge,new hampshire,www.franklinpierce.edu,1,11,2,2
+183026,southern new hampshire university,snhu,manchester,new hampshire,www.snhu.edu,1,13,5,1
+183044,university of new hampshire main campus,0,durham,new hampshire,www.unh.edu,1,17,4,1
+183062,keene state college,ksc,keene,new hampshire,www.keene.edu,1,14,2,2
+183071,university of new hampshire at manchester,unh manchester,manchester,new hampshire,manchester.unh.edu,2,6,1,1
+183789,berkeley college woodland park,berkeley college woodland park campus | berkeley college paramus campus | berkeley college middlesex campus | berkeley college newark campus | berkeley college dover campus | berkeley college clifton campus | berkeley college online,woodland park,new jersey,www.berkeleycollege.edu,2,-2,2,1
+183910,caldwell university,0,caldwell,new jersey,www.caldwell.edu,1,10,2,1
+184348,drew university,0,madison,new jersey,www.drew.edu,1,11,2,1
+184603,fairleigh dickinson university metropolitan campus,fdu,teaneck,new jersey,www.fdu.edu,1,12,3,1
+184694,fairleigh dickinson university college at florham,fdu,madison,new jersey,www.fdu.edu,1,11,2,1
+184773,georgian court university,0,lakewood,new jersey,www.georgian.edu,1,10,2,1
+184782,rowan university,rowan college of new jersey  |glassboro state college,glassboro,new jersey,www.rowan.edu,1,13,4,1
+185129,new jersey city university,0,jersey city,new jersey,www.njcu.edu,1,12,3,1
+185262,kean university,kean,union,new jersey,www.kean.edu,1,15,4,1
+185572,monmouth university,0,west long branch,new jersey,www.monmouth.edu,1,13,3,1
+185590,montclair state university,0,montclair,new jersey,www.montclair.edu,1,16,5,1
+185828,new jersey institute of technology,njit,newark,new jersey,www.njit.edu/,1,13,4,1
+186131,princeton university,0,princeton,new jersey,www.princeton.edu,1,14,3,1
+186201,ramapo college of new jersey,0,mahwah,new jersey,www.ramapo.edu,1,14,3,1
+186283,rider university,0,lawrenceville,new jersey,www.rider.edu,1,14,3,1
+186371,rutgers university camden,rutgers  the state university of new jersey|rutgers-camden campus|rutgers|rutgers camden|rutgers-camden|rutgers  camden campus|rutgers  new jersey|rutgers u|,camden,new jersey,www.rutgers.edu,1,12,3,1
+186380,rutgers university new brunswick,rutgers  the state university of new jersey|rutgers  the state university|rutgers university|rutgers  new brunswick campus|rutgers-new brunswick campus|rutgers-new jersey|rutgers  the state university new brunswick/piscataway campus|rutgers  new brunswick|rutgers|ru|rutgers  new jersey,new brunswick,new jersey,www.rutgers.edu/,1,17,5,1
+186399,rutgers university newark,rutgers university-newark campus; rutgers university-newark;,newark,new jersey,www.rutgers.edu,1,12,4,1
+186432,saint peter university,saint peter's,jersey city,new jersey,www.saintpeters.edu,1,10,2,1
+186584,seton hall university,0,south orange,new jersey,www.shu.edu,1,13,3,1
+186867,stevens institute of technology,stevens,hoboken,new jersey,www.stevens.edu,1,14,3,1
+186876,stockton university,stockton state|stockton state college|stockton university|richard stockton college of new jersey|richard stockton college of nj|stockton college of new jersey|stockton college of nj|r stockton college|rsc|richard stockton college|ssc,galloway,new jersey,www.stockton.edu,1,13,3,1
+187134,the college of new jersey,tcnj,ewing,new jersey,www.tcnj.edu,1,14,3,1
+187444,william paterson university of new jersey,0,wayne,new jersey,www.wpunj.edu,1,12,4,1
+187648,eastern new mexico university main campus,enmu,portales,new mexico,www.enmu.edu,1,13,3,2
+187897,new mexico highlands university,0,las vegas,new mexico,www.nmhu.edu,1,10,2,2
+187985,university of new mexico main campus,unm,albuquerque,new mexico,www.unm.edu,1,15,5,1
+188030,new mexico state university main campus,nmsu,las cruces,new mexico,www.nmsu.edu/,1,15,4,1
+188429,adelphi university,0,garden city,new york,www.adelphi.edu/,1,12,3,1
+188641,alfred university,0,alfred,new york,www.alfred.edu,1,11,2,-2
+189015,bank street college of education,0,new york,new york,www.bankstreet.edu,1,-2,1,1
+189228,berkeley college new york,berkeley college nyc campus | berkeley college new york city campus | berkeley college westchester campus | berkeley college white plains | berkeley college | berkeley college lower manhattan extension center | berkeley college online | berkeley college brooklyn campus,new york,new york,www.berkeleycollege.edu,2,-2,2,1
+189583,bryant   stratton college buffalo,0,buffalo,new york,www.bryantstratton.edu,2,2,1,1
+189705,canisius college,canisius,buffalo,new york,www.canisius.edu,1,13,2,1
+190044,clarkson university,0,potsdam,new york,www.clarkson.edu,1,14,2,2
+190099,colgate university,0,hamilton,new york,www.colgate.edu,1,11,2,1
+190150,columbia university in the city of new york,0,new york,new york,www.columbia.edu,1,17,5,1
+190415,cornell university,0,ithaca,new york,www.cornell.edu,1,17,5,1
+190512,cuny bernard m baruch college,baruch | baruch college,new york,new york,www.baruch.cuny.edu,1,15,4,1
+190549,cuny brooklyn college,brooklyn | brooklyn college,brooklyn,new york,www.brooklyn.cuny.edu,1,15,4,1
+190558,college of staten island cuny,staten island | csi | college of staten island,staten island,new york,www.csi.cuny.edu,1,15,4,1
+190567,cuny city college,city | city college | ccny | city college of new york,new york,new york,www.ccny.cuny.edu,1,15,4,1
+190594,cuny hunter college,hunter | hunter college,new york,new york,www.hunter.cuny.edu,1,15,5,1
+190600,cuny john jay college of criminal justice,john jay | john jay college of criminal justice,new york,new york,www.jjay.cuny.edu,1,15,4,1
+190664,cuny queens college,queens | queens college,flushing,new york,www.qc.cuny.edu,1,15,4,1
+191241,fordham university,0,bronx,new york,www.fordham.edu,1,17,4,1
+191649,hofstra university,0,hempstead,new york,www.hofstra.edu,1,16,4,1
+191931,iona college,0,new rochelle,new york,www.iona.edu,1,13,2,1
+191968,ithaca college,0,ithaca,new york,www.ithaca.edu,1,14,3,1
+192323,le moyne college,0,syracuse,new york,www.lemoyne.edu,1,11,2,1
+192439,liu brooklyn,0,brooklyn,new york,www.liu.edu,1,12,3,1
+192448,liu post,liu post,brookville,new york,www.liu.edu,1,13,3,1
+192563,liu brentwood,0,brentwood,new york,www.liu.edu,1,6,1,1
+192703,manhattan college,0,riverdale,new york,www.manhattan.edu,1,14,2,1
+192819,marist college,0,poughkeepsie,new york,www.marist.edu,1,14,3,1
+192864,marymount manhattan college,mmc,new york,new york,www.mmm.edu,2,10,2,1
+193292,molloy college,0,rockville centre,new york,www.molloy.edu,1,9,2,1
+193353,mount saint mary college,the mount/mount saint mary college,newburgh,new york,www.msmc.edu,1,10,2,1
+193584,nazareth college,0,rochester,new york,www.naz.edu,1,11,2,1
+193654,the new school,new school university |new school for social research |parsons the new school for design,new york,new york,www.newschool.edu,1,13,4,1
+193900,new york university,0,new york,new york,www.nyu.edu,1,17,5,1
+193973,niagara university,0,niagara university,new york,www.niagara.edu,1,14,2,1
+194091,new york institute of technology,0,old westbury,new york,www.nyit.edu,1,12,3,1
+194161,nyack college,0,nyack,new york,www.nyack.edu,1,11,2,1
+194310,pace university new york,0,new york,new york,www.pace.edu,1,13,4,1
+194824,rensselaer polytechnic institute,rpi  rensselaer,troy,new york,www.rpi.edu,1,14,3,1
+195003,rochester institute of technology,rit  |r.i.t.,rochester,new york,www.rit.edu/,1,17,4,1
+195030,university of rochester,0,rochester,new york,www.rochester.edu,1,14,4,1
+195128,the sage colleges,0,troy,new york,www.sage.edu,1,10,2,1
+195164,st bonaventure university,st. bona/bonas,saint bonaventure,new york,www.sbu.edu,1,11,2,2
+195234,the college of saint rose,0,albany,new york,www.strose.edu,1,13,2,1
+195474,siena college,0,loudonville,new york,www.siena.edu,1,14,2,1
+195526,skidmore college,0,saratoga springs,new york,www.skidmore.edu/,1,11,2,1
+195544,saint joseph college new york,0,brooklyn,new york,www.sjcny.edu,1,9,2,1
+195720,saint john fisher college,fisher,rochester,new york,www.sjfc.edu,1,13,2,1
+195809,st john university new york,0,queens,new york,www.stjohns.edu,1,16,5,1
+196015,suny college of technology at canton,suny canton,canton,new york,www.canton.edu,2,10,2,2
+196051,morrisville state college,0,morrisville,new york,www.morrisville.edu,2,14,2,1
+196060,suny at albany,university at albany  suny,albany,new york,www.albany.edu,1,17,4,1
+196079,suny at binghamton,binghamton university,vestal,new york,www.binghamton.edu,1,17,4,1
+196088,university at buffalo,university at buffalo|ub|state university of new york at buffalo|suny buffalo|university of buffalo,buffalo,new york,www.buffalo.edu,1,16,5,1
+196097,stony brook university,suny stony brook |state university of new york at stony brook,stony brook,new york,www.stonybrook.edu,1,17,5,1
+196112,suny polytechnic institute,sunyit,utica,new york,www.sunyit.edu,1,9,2,1
+196121,suny college at brockport,state university of new york,brockport,new york,www.brockport.edu,1,13,3,1
+196158,suny at fredonia,0,fredonia,new york,www.fredonia.edu,1,14,3,2
+196167,suny college at geneseo,suny geneseo,geneseo,new york,www.geneseo.edu/,1,14,3,1
+196176,state university of new york at new paltz,state university of new york at new paltz,new paltz,new york,www.newpaltz.edu,1,13,3,1
+196185,suny oneonta,0,oneonta,new york,www.oneonta.edu,1,14,3,2
+196194,suny college at oswego,suny oswego,oswego,new york,www.oswego.edu/,1,14,3,1
+196237,suny college at old westbury,0,old westbury,new york,www.oldwestbury.edu,1,13,2,1
+196246,suny college at plattsburgh,0,plattsburgh,new york,www.plattsburgh.edu,1,13,3,2
+196255,suny downstate medical center,downstate medical center |suny health science center at brooklyn,brooklyn,new york,www.downstate.edu/,1,-2,2,1
+196264,suny empire state college,0,saratoga springs,new york,www.esc.edu,1,12,4,1
+196413,syracuse university,0,syracuse,new york,syr.edu/,1,17,5,1
+196468,teachers college at columbia university,0,new york,new york,www.tc.columbia.edu,1,18,3,1
+196592,touro college,0,new york,new york,www.touro.edu,1,15,4,1
+196866,union college,0,schenectady,new york,www.union.edu/,2,11,2,1
+197036,united states military academy,west point,west  point,new york,www.westpoint.edu,2,14,2,1
+197708,yeshiva university,0,new york,new york,www.yu.edu,1,14,3,1
+197869,appalachian state university,asu,boone,north carolina,www.appstate.edu/,1,16,4,2
+197993,bennett college,bennett college / bennett,greensboro,north carolina,www.bennett.edu,2,8,1,1
+198066,brevard college,0,brevard,north carolina,www.brevard.edu,2,8,1,2
+198215,catawba college,0,salisbury,north carolina,www.catawba.edu,1,11,2,1
+198385,davidson college,0,davidson,north carolina,www.davidson.edu/,2,11,2,1
+198419,duke university,0,durham,north carolina,www.duke.edu,1,17,4,1
+198464,east carolina university,ecu,greenville,north carolina,www.ecu.edu,1,15,5,1
+198507,elizabeth city state university,ecsu,elizabeth city,north carolina,www.ecsu.edu,1,11,2,2
+198516,elon university,0,elon,north carolina,www.elon.edu,1,14,3,1
+198543,fayetteville state university,0,fayetteville,north carolina,www.uncfsu.edu,1,13,3,1
+198598,greensboro college,0,greensboro,north carolina,www.greensboro.edu,1,10,1,1
+198613,guilford college,0,greensboro,north carolina,www.guilford.edu,2,11,2,1
+198695,high point university,0,high point,north carolina,www.highpoint.edu,1,14,2,1
+198835,lenoir rhyne university,0,hickory,north carolina,www.lr.edu,1,11,2,1
+198950,meredith college,meredith|meridith,raleigh,north carolina,www.meredith.edu,1,11,2,1
+199069,university of mount olive,0,mount olive,north carolina,www.moc.edu,1,9,2,1
+199102,north carolina a   t state university,ncat,greensboro,north carolina,www.ncat.edu,1,13,4,1
+199111,university of north carolina at asheville,0,asheville,north carolina,www.unca.edu,1,13,2,1
+199120,university of north carolina at chapel hill,0,chapel hill,north carolina,www.unc.edu,1,16,5,1
+199139,university of north carolina at charlotte,unc charlotte,charlotte,north carolina,www.uncc.edu,1,16,5,1
+199148,university of north carolina at greensboro,uncg,greensboro,north carolina,www.uncg.edu,1,16,4,1
+199157,north carolina central university,0,durham,north carolina,www.nccu.edu,1,13,3,1
+199193,north carolina state university at raleigh,nc state university | nc state | n c state university | n c state | ncsu,raleigh,north carolina,www.ncsu.edu,1,16,5,1
+199218,university of north carolina wilmington,uncw|university of north carolina at wilmington|unc wilmington|unc w|university of nc at wilmington|univ of nc-wilmington|unc-w|university of north carolina wilmington|,wilmington,north carolina,www.uncw.edu,1,16,4,1
+199281,university of north carolina at pembroke,uncp,pembroke,north carolina,www.uncp.edu,1,13,3,2
+199306,pfeiffer university,0,misenheimer,north carolina,www.pfeiffer.edu,1,10,2,2
+199412,queens university of charlotte,queens,charlotte,north carolina,www.queens.edu,1,10,2,1
+199847,wake forest university,0,winston salem,north carolina,www.wfu.edu,1,14,3,1
+199999,winston salem state university,wssu,winston salem,north carolina,www.wssu.edu,1,13,3,1
+200004,western carolina university,0,cullowhee,north carolina,www.wcu.edu,1,13,4,2
+200253,minot state university,msu,minot,north dakota,www.minotstateu.edu,1,10,2,2
+200280,university of north dakota,0,grand forks,north dakota,und.edu,1,16,4,1
+200332,north dakota state university main campus,north dakota state university  ndsu,fargo,north dakota,www.ndsu.edu,1,16,4,1
+200800,university of akron main campus,0,akron,ohio,www.uakron.edu,1,15,5,1
+201104,ashland university,ashland college,ashland,ohio,www1.ashland.edu,1,14,3,2
+201195,baldwin wallace university,baldwin wallace |baldwin-wallace college |baldwin-wallace,berea,ohio,www.bw.edu,1,14,2,1
+201441,bowling green state university main campus,bgsu,bowling green,ohio,www.bgsu.edu,1,16,4,1
+201645,case western reserve university,case|case western|cwru,cleveland,ohio,www.case.edu,1,14,4,1
+201654,cedarville university,0,cedarville,ohio,www.cedarville.edu,1,11,2,1
+201885,university of cincinnati main campus,0,cincinnati,ohio,www.uc.edu,1,15,5,1
+202134,cleveland state university,0,cleveland,ohio,www.csuohio.edu/,1,15,4,1
+202480,university of dayton,0,dayton,ohio,www.udayton.edu,1,14,4,1
+202763,the university of findlay,0,findlay,ohio,www.findlay.edu/,1,13,3,2
+202806,franklin university,0,columbus,ohio,www.franklin.edu,1,-2,3,1
+203085,heidelberg university,heidelburg college|hiedelberg college|hiedelburg college|heidleberg college|heidleburg college|the 'berg|heidelberg university|hiedelberg university|heidelburg university,tiffin,ohio,www.heidelberg.edu,1,11,2,2
+203368,john carroll university,jcu |john caroll university |john carrol university |john carol university |john carroll college,university heights,ohio,sites.jcu.edu/,1,13,2,1
+203465,kent state university at stark,0,canton,ohio,www.stark.kent.edu,1,3,2,1
+203517,kent state university at kent,0,kent,ohio,www.kent.edu,1,16,5,1
+203526,kent state university at geauga,0,burton,ohio,www.geauga.kent.edu,1,2,2,1
+203775,malone university,0,canton,ohio,www.malone.edu,1,11,2,1
+204006,miami university hamilton,0,hamilton,ohio,www.regionals.miamioh.edu,2,9,2,1
+204024,miami university oxford,miami of ohio,oxford,ohio,www.miami.miamioh.edu,1,17,4,1
+204200,mount saint joseph university,college of mount saint joseph  mount st. joseph college  mount saint joseph college  mount st. joe  mount  the mount  college of mount st. joseph on the ohio.,cincinnati,ohio,www.msj.edu,1,9,2,1
+204501,oberlin college,0,oberlin,ohio,www.oberlin.edu,1,11,2,1
+204617,ohio dominican university,odu,columbus,ohio,www.ohiodominican.edu,1,10,2,1
+204635,ohio northern university,northern|onu,ada,ohio,www.onu.edu/,1,14,2,-2
+204705,ohio state university newark campus,0,newark,ohio,www.newark.osu.edu,1,9,2,1
+204796,ohio state university main campus,0,columbus,ohio,www.osu.edu,1,15,5,1
+204857,ohio university main campus,0,athens,ohio,www.ohio.edu,1,16,5,2
+204936,otterbein university,0,westerville,ohio,www.otterbein.edu,1,11,2,1
+206048,tiffin university,0,tiffin,ohio,www.tiffin.edu,1,10,2,2
+206084,university of toledo,0,toledo,ohio,www.utoledo.edu/,1,15,5,1
+206279,union institute   university,union  the union institute  vermont college,cincinnati,ohio,www.myunion.edu,1,9,2,1
+206437,walsh university,0,north canton,ohio,www.walsh.edu,1,11,2,1
+206507,wilmington college,0,wilmington,ohio,www.wilmington.edu,1,11,2,2
+206525,wittenberg university,0,springfield,ohio,www.wittenberg.edu,1,11,2,1
+206604,wright state university main campus,0,dayton,ohio,www.wright.edu,1,15,4,1
+206613,wright state university lake campus,0,celina,ohio,www.wright.edu,1,2,2,2
+206622,xavier university,xu | x,cincinnati,ohio,www.xavier.edu,1,13,3,1
+206695,youngstown state university,0,youngstown,ohio,www.ysu.edu,1,15,4,1
+206914,cameron university,0,lawton,oklahoma,www.cameron.edu,1,12,3,1
+206941,university of central oklahoma,uco  central,edmond,oklahoma,www.uco.edu,1,15,4,1
+207263,northeastern state university,nsu,tahlequah,oklahoma,www.nsuok.edu,1,12,3,2
+207315,oklahoma state university center for health sciences,0,tulsa,oklahoma,www.healthsciences.okstate.edu,1,-2,1,1
+207342,university of oklahoma health sciences center,0,oklahoma city,oklahoma,ouhsc.edu,1,-2,2,1
+207388,oklahoma state university main campus,0,stillwater,oklahoma,www.okstate.edu/,1,16,5,2
+207458,oklahoma city university,0,oklahoma city,oklahoma,www.okcu.edu,1,14,2,1
+207500,university of oklahoma norman campus,university of oklahoma|oklahoma university|ou|oklahoma,norman,oklahoma,www.ou.edu,1,16,5,1
+207582,oral roberts university,oru,tulsa,oklahoma,oru.edu,1,11,2,1
+207971,university of tulsa,tulsa university,tulsa,oklahoma,www.utulsa.edu,1,14,2,1
+208822,george fox university,0,newberg,oregon,www.georgefox.edu,1,11,2,1
+209065,linfield college mcminnville campus,linfield|lc|lindfield|lynfield|linnfield|lynnfield|linfeld|lindfield college|lynfield college|linnfield college|lynnfield college|linfeld college|linfield university|lindfield university|lynfield university|lynnfield university|linfeld university|linfeild|linfeild college|linfeild university|wildcats,mcminnville,oregon,www.linfield.edu,2,11,2,1
+209108,marylhurst university,marylhurst|marlyhurst|maryhurst|marlyhust|marlhurst|marylhust,marylhurst,oregon,www.marylhurst.edu,1,6,2,1
+209490,oregon health   science university,ohsu| oregon health and sciences university,portland,oregon,www.ohsu.edu/xd,1,-2,2,1
+209542,oregon state university,osu,corvallis,oregon,oregonstate.edu,1,15,5,1
+209551,university of oregon,uo,eugene,oregon,www.uoregon.edu,1,15,5,1
+209807,portland state university,0,portland,oregon,www.pdx.edu,1,15,5,1
+209825,university of portland,0,portland,oregon,www.up.edu,1,14,2,1
+209922,reed college,reed,portland,oregon,www.reed.edu,1,11,2,1
+210401,willamette university,0,salem,oregon,www.willamette.edu,1,11,2,1
+210429,western oregon university,western oregon state college,monmouth,oregon,www.wou.edu,1,13,3,1
+210571,albright college,0,reading,pennsylvania,www.albright.edu,1,11,2,1
+211158,bloomsburg university of pennsylvania,0,bloomsburg,pennsylvania,www.bloomu.edu,1,13,3,1
+211291,bucknell university,0,lewisburg,pennsylvania,www.bucknell.edu,1,14,2,2
+211352,cabrini college,0,radnor,pennsylvania,www.cabrini.edu,1,11,2,1
+211440,carnegie mellon university,0,pittsburgh,pennsylvania,www.cmu.edu/,1,17,4,1
+211644,clarion university of pennsylvania,clarion university,clarion,pennsylvania,www.clarion.edu,1,13,3,-2
+212009,dickinson college,0,carlisle,pennsylvania,www.dickinson.edu,2,11,2,1
+212054,drexel university,drexel,philadelphia,pennsylvania,www.drexel.edu,1,16,5,1
+212106,duquesne university,0,pittsburgh,pennsylvania,www.duq.edu,1,14,3,1
+212115,east stroudsburg university of pennsylvania,east stroudsburg university |east stroudsburg |esu,east stroudsburg,pennsylvania,www4.esu.edu/,1,13,3,1
+212133,eastern university,0,saint davids,pennsylvania,www.eastern.edu/about/student-consumer-information,1,14,2,1
+212160,edinboro university of pennsylvania,0,edinboro,pennsylvania,www.edinboro.edu/,1,13,3,1
+212197,elizabethtown college,0,elizabethtown,pennsylvania,www.etown.edu,1,11,2,1
+212577,franklin and marshall college,franklin & marshall college|franklin & marshall|franklin and marshall|f&m|fandm,lancaster,pennsylvania,www.fandm.edu,2,11,2,1
+212601,gannon university,0,erie,pennsylvania,www.gannon.edu,1,13,2,1
+212674,gettysburg college,0,gettysburg,pennsylvania,www.gettysburg.edu,2,11,2,1
+212984,holy family university,holy family,philadelphia,pennsylvania,www.holyfamily.edu,1,9,2,1
+213020,indiana university of pennsylvania main campus,0,indiana,pennsylvania,www.iup.edu,1,16,4,2
+213303,keystone college,0,la plume,pennsylvania,www.keystone.edu,1,9,2,1
+213321,king college,kings college|king's|kings,wilkes-barre,pennsylvania,www.kings.edu,1,11,2,1
+213349,kutztown university of pennsylvania,0,kutztown,pennsylvania,www2.kutztown.edu/,1,13,3,1
+213367,la salle university,0,philadelphia,pennsylvania,www.lasalle.edu,1,13,3,1
+213543,lehigh university,0,bethlehem,pennsylvania,www.lehigh.edu,1,14,3,1
+213668,lycoming college,0,williamsport,pennsylvania,www.lycoming.edu,2,11,2,1
+213826,marywood university,marywood,scranton,pennsylvania,www.marywood.edu/,1,10,2,1
+214041,millersville university of pennsylvania,0,millersville,pennsylvania,www.millersville.edu,1,13,3,1
+214157,moravian college,moravian college | moravian theological seminary | moravian | moravian seminary,bethlehem,pennsylvania,www.moravian.edu,1,11,2,1
+214175,muhlenberg college,0,allentown,pennsylvania,www.muhlenberg.edu,2,11,2,1
+214272,neumann university,neumann,aston,pennsylvania,www.neumann.edu,1,10,2,1
+214591,pennsylvania state university penn state erie behrend college,penn state,erie,pennsylvania,psbehrend.psu.edu/,1,13,2,1
+214607,pennsylvania state university penn state great valley,penn state,malvern,pennsylvania,www.sgps.psu.edu/,1,18,1,1
+214625,pennsylvania state university penn state new kensington,penn state,new kensington,pennsylvania,www.nk.psu.edu/,1,6,1,1
+214652,pennsylvania state university penn state worthington scranton,penn state,dunmore,pennsylvania,www.sn.psu.edu/,2,9,2,1
+214670,pennsylvania state university penn state lehigh valley,penn state,center valley,pennsylvania,www.lv.psu.edu/,1,6,1,1
+214689,pennsylvania state university penn state altoona,penn state,altoona,pennsylvania,www.altoona.psu.edu/,2,12,2,1
+214698,pennsylvania state university penn state beaver,penn state,monaca,pennsylvania,www.br.psu.edu/,1,6,1,1
+214704,pennsylvania state university penn state berks,penn state,reading,pennsylvania,www.bk.psu.edu/,2,10,2,1
+214713,pennsylvania state university penn state harrisburg,penn state,middletown,pennsylvania,hbg.psu.edu/,1,9,2,1
+214731,pennsylvania state university penn state brandywine,penn state,media,pennsylvania,www.brandywine.psu.edu/,2,9,2,1
+214777,pennsylvania state university main campus,penn state,university park,pennsylvania,www.psu.edu/,1,16,5,1
+214801,pennsylvania state university penn state abington,penn state,abington,pennsylvania,www.abington.psu.edu/,1,9,2,1
+214829,pennsylvania state university penn state york,penn state,york,pennsylvania,www.yk.psu.edu/,1,9,2,1
+214883,peirce college,0,philadelphia,pennsylvania,www.peirce.edu,1,9,2,1
+215062,university of pennsylvania,penn  u of pa  u-penn  u of p  pennsylvania  upenn  pennsylvania university  university of pennsylvania  wharton  wharton school of business,philadelphia,pennsylvania,www.upenn.edu,1,17,5,1
+215099,philadelphia university,philau,philadelphia,pennsylvania,www.philau.edu,1,13,2,1
+215293,university of pittsburgh pittsburgh campus,0,pittsburgh,pennsylvania,www.pitt.edu,1,16,5,1
+215442,point park university,0,pittsburgh,pennsylvania,www.pointpark.edu,1,13,2,1
+215655,robert morris university,0,moon township,pennsylvania,www.rmu.edu,1,13,3,1
+215770,saint joseph university,0,philadelphia,pennsylvania,www.sju.edu,1,14,3,1
+215798,saint vincent college,0,latrobe,pennsylvania,www.stvincent.edu,1,11,2,1
+215929,university of scranton,0,scranton,pennsylvania,www.scranton.edu,1,14,3,1
+215947,seton hill university,0,greensburg,pennsylvania,www.setonhill.edu,1,11,2,1
+216010,shippensburg university of pennsylvania,ship|su|shipensburg|shippenburg|shipenburg,shippensburg,pennsylvania,www.ship.edu/,1,13,3,1
+216038,slippery rock university of pennsylvania,0,slippery rock,pennsylvania,www.sru.edu,1,13,3,1
+216278,susquehanna university,susquahanna|susquehana|sesquehanna,selinsgrove,pennsylvania,www.susqu.edu,2,11,2,2
+216287,swarthmore college,swat,swarthmore,pennsylvania,www.swarthmore.edu,2,11,2,1
+216339,temple university,0,philadelphia,pennsylvania,www.temple.edu,1,15,5,1
+216524,ursinus college,0,collegeville,pennsylvania,www.ursinus.edu,2,11,2,1
+216597,villanova university,0,villanova,pennsylvania,www.villanova.edu,1,14,4,1
+216667,washington   jefferson college,w&j|washington & jefferson college,washington,pennsylvania,www.washjeff.edu,2,11,2,1
+216764,west chester university of pennsylvania,wcu,west chester,pennsylvania,www.wcupa.edu,1,16,4,1
+216852,widener university main campus,0,chester,pennsylvania,www.widener.edu,1,13,2,1
+216931,wilkes university,wilkes,wilkes-barre,pennsylvania,www.wilkes.edu,1,13,2,1
+217059,york college pennsylvania,ycp,york,pennsylvania,www.ycp.edu,1,13,3,1
+217156,brown university,0,providence,rhode island,www.brown.edu,1,14,3,1
+217165,bryant university,0,smithfield,rhode island,www.bryant.edu,1,14,2,1
+217402,providence college,0,providence,rhode island,www.providence.edu,1,14,2,1
+217420,rhode island college,ric|ri college|r.i. college|,providence,rhode island,www.ric.edu,1,12,3,1
+217484,university of rhode island,uri,kingston,rhode island,www.uri.edu/,1,16,4,1
+217518,roger williams university,0,bristol,rhode island,www.rwu.edu,1,14,2,1
+217633,anderson university,au,anderson,south carolina,www.andersonuniversity.edu,1,11,2,1
+217819,college of charleston,0,charleston,south carolina,www.cofc.edu,1,16,4,1
+217864,citadel military college of south carolina,0,charleston,south carolina,www.citadel.edu,1,11,2,1
+217873,claflin university,0,orangeburg,south carolina,www.claflin.edu,1,11,2,2
+217882,clemson university,0,clemson,south carolina,www.clemson.edu,1,16,5,1
+218070,furman university,furman,greenville,south carolina,www.furman.edu,1,11,2,1
+218238,limestone college,0,gaffney,south carolina,www.limestone.edu,1,10,2,2
+218335,medical university of south carolina,musc,charleston,south carolina,www.musc.edu/,1,-2,2,1
+218645,university of south carolina aiken,university of south carolina aiken |usc aiken |usca |uscaiken| |university of south carolina at aiken,aiken,south carolina,web.usca.edu,1,10,2,1
+218654,university of south carolina beaufort,university of south carolina beaufort |usc beaufort |uscb,bluffton,south carolina,www.uscb.edu,2,9,2,1
+218663,university of south carolina columbia,0,columbia,south carolina,www.sc.edu/,1,16,5,1
+218724,coastal carolina university,0,conway,south carolina,www.coastal.edu,1,13,3,1
+218742,university of south carolina upstate,0,spartanburg,south carolina,www.uscupstate.edu,1,12,3,1
+218964,winthrop university,0,rock hill,south carolina,www.winthrop.edu,1,13,3,1
+219046,black hills state university,0,spearfish,south dakota,www.bhsu.edu,1,9,2,2
+219082,dakota state university,dakota state,madison,south dakota,www.dsu.edu,1,10,2,-2
+219356,south dakota state university,0,brookings,south dakota,www.sdstate.edu/,1,13,4,2
+219471,university of south dakota,usd,vermillion,south dakota,www.usd.edu,1,13,4,2
+219602,austin peay state university,0,clarksville,tennessee,www.apsu.edu,1,12,4,1
+219709,belmont university,0,nashville,tennessee,www.belmont.edu,1,13,3,1
+219833,christian brothers university,cbu,memphis,tennessee,www.cbu.edu,1,10,2,1
+219976,lipscomb university,david lipscomb university |david lipscomb |lipscomb,nashville,tennessee,www.lipscomb.edu,1,14,2,1
+220075,east tennessee state university,etsu,johnson city,tennessee,www.etsu.edu,1,15,4,1
+220710,maryville college,0,maryville,tennessee,www.maryvillecollege.edu,2,11,2,1
+220862,university of memphis,0,memphis,tennessee,www.memphis.edu,1,15,5,1
+220978,middle tennessee state university,0,murfreesboro,tennessee,www.mtsu.edu,1,15,5,1
+221351,rhodes college,0,memphis,tennessee,www.rhodes.edu,1,11,2,1
+221661,southern adventist university,0,collegedale,tennessee,www.southern.edu,1,11,2,1
+221740,the university of tennessee chattanooga,utc,chattanooga,tennessee,www.utc.edu,1,13,4,1
+221759,the university of tennessee knoxville,0,knoxville,tennessee,www.tennessee.edu,1,16,5,1
+221768,the university of tennessee martin,ut martin,martin,tennessee,www.utm.edu,1,13,3,2
+221838,tennessee state university,0,nashville,tennessee,www.tnstate.edu,1,13,3,1
+221971,union university,0,jackson,tennessee,www.uu.edu,1,14,2,1
+221999,vanderbilt university,0,nashville,tennessee,www.vanderbilt.edu,1,17,4,1
+222178,abilene christian university,0,abilene,texas,www.acu.edu,1,13,2,1
+222831,angelo state university,angelo state,san angelo,texas,www.angelo.edu,1,13,3,1
+223223,baylor college of medicine,0,houston,texas,www.bcm.edu,1,-2,2,1
+223232,baylor university,0,waco,texas,www.baylor.edu,1,16,4,1
+223506,brazosport college,bc,lake jackson,texas,www.brazosport.edu,2,9,2,1
+224147,texas a   m university corpus christi,0,corpus christi,texas,www.tamucc.edu,1,12,4,1
+224323,university of dallas,0,irving,texas,www.udallas.edu,1,11,2,1
+224527,east texas baptist university,0,marshall,texas,www.etbu.edu,1,11,2,2
+224554,texas a   m university commerce,a&m commerce |texas a&m commerce,commerce,texas,www.tamuc.edu/,1,12,4,1
+225247,hardin simmons university,hsu  hardin-simmons,abilene,texas,www.hsutx.edu,1,10,2,1
+225399,houston baptist university,hbu,houston,texas,www.hbu.edu,1,10,2,1
+225414,university of houston clear lake,uhcl| university of houston - clear lake| university of houston  clear lake| uh-cl|university of houston - clearlake| university of houston-clearlake,houston,texas,prtl.uhcl.edu/portal/page/portal/homepage,1,12,3,1
+225432,university of houston downtown,0,houston,texas,www.uhd.edu,1,12,4,1
+225502,university of houston victoria,0,victoria,texas,www.uhv.edu,1,9,2,1
+225511,university of houston,0,houston,texas,www.uh.edu/students,1,15,5,1
+225627,university of the incarnate word,uiw|incarnate word|incarnate|incarnate word  university of|incarnate word  univ of|univ. of the incarnate word,san antonio,texas,www.uiw.edu,1,12,3,1
+226091,lamar university,0,beaumont,texas,www.lamar.edu,1,12,4,1
+226152,texas a   m international university,0,laredo,texas,tamiu.edu,1,12,3,1
+226471,university of mary hardin baylor,umhb|mhb|mary hardin-baylor,belton,texas,www.umhb.edu,1,10,2,1
+226833,midwestern state university,msu,wichita falls,texas,www.mwsu.edu,1,12,3,1
+227216,university of north texas,unt|north texas|mean grean,denton,texas,www.unt.edu,1,15,5,1
+227331,our lady of the lake university,ollu,san antonio,texas,www.ollusa.edu,1,10,2,1
+227368,the university of texas rio grande valley,ut-pan american | ut pan am | utpa | university of texas-pan american | pan american | pan am |,edinburg,texas,www.utpa.edu,1,15,5,1
+227377,the university of texas at brownsville,0,brownsville,texas,www.utb.edu,1,12,4,1
+227526,prairie view a   m university,pvamu,prairie view,texas,www.pvamu.edu,1,13,3,1
+227757,rice university,0,houston,texas,www.rice.edu,1,14,3,1
+227845,saint edward university,st. edward's university  st. edward's,austin,texas,www.stedwards.edu,1,13,2,1
+227881,sam houston state university,0,huntsville,texas,www.shsu.edu/,1,15,4,2
+228042,schreiner university,0,kerrville,texas,www.schreiner.edu,1,11,2,2
+228149,st mary university,0,san antonio,texas,www.stmarytx.edu/,1,14,2,1
+228246,southern methodist university,smu,dallas,texas,www.smu.edu,1,13,4,1
+228343,southwestern university,su,georgetown,texas,www.southwestern.edu,2,11,2,1
+228431,stephen f austin state university,sfasu  sfa  stephen f  stephen f. austin,nacogdoches,texas,www.sfasu.edu,1,16,4,2
+228459,texas state university,texas state|texas state university-san marcos|southwest texas state university|southwest texas state|swt|swtsu|texas state san marcos|txst|txstate|ts|,san marcos,texas,www.txstate.edu,1,15,5,1
+228468,southwestern adventist university,0,keene,texas,www.swau.edu/,1,7,1,1
+228529,tarleton state university,tarleton|texans|texanns|tsu|tarleton state|,stephenville,texas,www.tarleton.edu,1,12,4,2
+228644,the university of texas health science center at san antonio,0,san antonio,texas,www.uthscsa.edu,1,-2,2,1
+228705,texas a   m university kingsville,tamuk |texas a&i university,kingsville,texas,www.tamuk.edu,1,13,4,2
+228723,texas a   m university college station,texas a&m | tamu,college station,texas,www.tamu.edu,1,15,5,1
+228769,the university of texas at arlington,ut arlington,arlington,texas,www.uta.edu,1,15,5,1
+228778,the university of texas at austin,ut austin |university of texas,austin,texas,www.utexas.edu,1,15,5,1
+228787,the university of texas at dallas,ut dallas,richardson,texas,www.utdallas.edu,1,15,5,1
+228796,the university of texas at el paso,utep,el paso,texas,www.utep.edu,1,15,5,1
+228802,the university of texas at tyler,ut tyler,tyler,texas,www.uttyler.edu/,1,12,3,1
+228875,texas christian university,tcu,fort worth,texas,www.tcu.edu/,1,13,4,1
+229018,the university of texas of the permian basin,ut permian basin,odessa,texas,www.utpb.edu,1,9,3,1
+229027,the university of texas at san antonio,utsa,san antonio,texas,www.utsa.edu/,1,15,5,1
+229063,texas southern university,tsu,houston,texas,www.tsu.edu,1,12,3,1
+229115,texas tech university,0,lubbock,texas,www.ttu.edu,1,16,5,1
+229160,texas wesleyan university,0,fort worth,texas,www.txwes.edu,1,9,2,1
+229179,texas woman university,0,denton,texas,www.twu.edu,1,12,4,1
+229267,trinity university,trinity,san antonio,texas,www.trinity.edu,1,11,2,1
+229300,the university of texas health science center at houston,uthealth |ut-houston |uthsc-h |the ut health science center at houston,houston,texas,www.uth.edu/,1,-2,2,1
+229814,west texas a   m university,0,canyon,texas,www.wtamu.edu,1,13,3,1
+230038,brigham young university provo,byu,provo,utah,www.byu.edu,1,15,5,1
+230047,brigham young university hawaii,byuh |byuhc |byu hawaii |byu hawaii campus |brigham young university hawaii |brigham young university hawaii campus |byu-h |byu-hc |byu-hawaii |byu-hawaii campus |brigham young university hawaii campus |byu - h |byu - hc |byu - hawaii |byu - hawaii campus |brigham young university - hawaii |brigham young university - hawaii campus |byuhawaii |byuhawaii campus,laie,hawaii,www.byuh.edu/,2,11,2,1
+230171,dixie state university,dsu,saint george,utah,www.dixie.edu/,2,12,3,1
+230728,utah state university,0,logan,utah,www.usu.edu,1,15,5,1
+230737,utah valley university,uvu,orem,utah,www.uvu.edu,1,15,5,1
+230764,university of utah,the u,salt lake city,utah,www.utah.edu,1,15,5,1
+230782,weber state university,wsu,ogden,utah,www.weber.edu,1,15,5,1
+230807,westminster college,westminster|westminster college salt lake|westminster college salt lake city|westminster college salt lake city utah|westminster college of salt lake|westminster college of salt lake city|westminster college of salt lake city utah|westminster griffins|griffins|salt lake griffins|utah griffins,salt lake city,utah,www.westminstercollege.edu,1,10,2,1
+230852,champlain college,0,burlington,vermont,www.champlain.edu,1,10,2,1
+230898,green mountain college,0,poultney,vermont,www.greenmtn.edu,1,8,1,2
+230995,norwich university,0,northfield,vermont,www.norwich.edu,1,14,2,2
+231059,saint michael college,0,colchester,vermont,www.smcvt.edu,1,11,2,1
+231068,sit graduate institute,sit,brattleboro,vermont,www.sit.edu,1,18,1,-2
+231174,university of vermont,university of vermont and state agricultural college |uvm |uvt |vermont,burlington,vermont,www.uvm.edu,1,17,4,1
+231420,averett university,au,danville,virginia,www.averett.edu,1,8,1,2
+231624,college of william and mary,william & mary,williamsburg,virginia,www.wm.edu,1,14,3,1
+231651,regent university,0,virginia beach,virginia,www.regent.edu,1,9,3,1
+231712,christopher newport university,cnu,newport news,virginia,www.cnu.edu,1,14,3,1
+232186,george mason university,mason,fairfax,virginia,www.gmu.edu,1,16,5,1
+232265,hampton university,0,hampton,virginia,www.hamptonu.edu,1,14,2,1
+232423,james madison university,jmu,harrisonburg,virginia,www.jmu.edu/,1,16,5,1
+232557,liberty university,0,lynchburg,virginia,www.liberty.edu,1,16,5,1
+232566,longwood university,0,farmville,virginia,www.longwood.edu,1,14,3,-2
+232609,lynchburg college,lc,lynchburg,virginia,www.lynchburg.edu,1,11,2,1
+232672,mary baldwin college,mbc,staunton,virginia,www.mbc.edu,1,10,2,1
+232681,university of mary washington,mary washington college,fredericksburg,virginia,www.umw.edu,1,14,2,1
+232706,marymount university,0,arlington,virginia,www.marymount.edu,1,10,2,1
+232937,norfolk state university,norfolk state; nsu,norfolk,virginia,www.nsu.edu,1,13,3,1
+232982,old dominion university,odu  old dominion,norfolk,virginia,www.odu.edu,1,16,5,1
+233277,radford university,ru,radford,virginia,www.radford.edu,1,13,3,1
+233374,university of richmond,ur/u of richmond/richmond,university of richmond,virginia,www.richmond.edu,1,14,2,1
+233541,shenandoah university,su,winchester,virginia,www.su.edu,1,11,2,1
+233921,virginia polytechnic institute and state university,virginia tech,blacksburg,virginia,www.vt.edu,1,16,5,1
+234030,virginia commonwealth university,vcu,richmond,virginia,www.vcu.edu/,1,15,5,1
+234076,university of virginia main campus,university of virginia |uva |uva,charlottesville,virginia,www.virginia.edu/,1,16,5,1
+234085,virginia military institute,vmi,lexington,virginia,www.vmi.edu,2,11,2,-2
+234155,virginia state university,vsu,petersburg,virginia,www.vsu.edu,1,14,3,1
+234207,washington and lee university,washington and lee |w&l |wlu,lexington,virginia,www.wlu.edu/,1,11,2,-2
+234827,central washington university,cwu,ellensburg,washington,www.cwu.edu,1,13,4,2
+234979,columbia basin college,cbc,pasco,washington,www.columbiabasin.edu,2,3,3,1
+235097,eastern washington university,ewu,cheney,washington,www.ewu.edu,1,15,4,1
+235316,gonzaga university,0,spokane,washington,www.gonzaga.edu,1,14,3,1
+236230,pacific lutheran university,plu,tacoma,washington,www.plu.edu,1,14,2,1
+236328,university of puget sound,0,tacoma,washington,www.pugetsound.edu,1,11,2,1
+236577,seattle pacific university,spu,seattle,washington,www.spu.edu,1,14,2,1
+236595,seattle university,seattle u,seattle,washington,www.seattleu.edu,1,13,3,1
+236939,washington state university,0,pullman,washington,wsu.edu/,1,16,5,2
+236948,university of washington seattle campus,uw-seattle  udub  uw  washington,seattle,washington,www.washington.edu,1,15,5,1
+237011,western washington university,western washington state college|western washington college of education,bellingham,washington,www.wwu.edu,1,16,4,1
+237066,whitworth university,0,spokane,washington,www.whitworth.edu,1,11,2,1
+237330,concord university,0,athens,west virginia,www.concord.edu,1,11,2,2
+237525,marshall university,0,huntington,west virginia,www.marshall.edu/,1,16,4,1
+237899,west virginia state university,wvsu |west virginia state,institute,west virginia,www.wvstateu.edu,1,10,2,1
+238032,west virginia university,wvu,morgantown,west virginia,www.wvu.edu/,1,16,5,1
+238458,carroll university,0,waukesha,wisconsin,www.carrollu.edu,1,11,2,1
+238661,edgewood college,0,madison,wisconsin,www.edgewood.edu,1,10,2,1
+239017,lawrence university,lawrence,appleton,wisconsin,www.lawrence.edu,2,11,2,1
+239080,marian university,marian college of fond du lac,fond du lac,wisconsin,www.marianuniversity.edu,1,10,2,1
+239105,marquette university,0,milwaukee,wisconsin,www.marquette.edu,1,17,4,1
+239512,northland college,0,ashland,wisconsin,www.northland.edu,2,8,1,-2
+239716,saint norbert college,snc,de pere,wisconsin,www.snc.edu,1,11,2,1
+240189,university of wisconsin whitewater,0,whitewater,wisconsin,www.uww.edu,1,13,4,2
+240268,university of wisconsin eau claire,uw-eau claire,eau claire,wisconsin,www.uwec.edu,1,16,4,1
+240277,university of wisconsin green bay,0,green bay,wisconsin,www.uwgb.edu,1,13,3,1
+240329,university of wisconsin la crosse,0,la crosse,wisconsin,www.uwlax.edu,1,13,4,1
+240365,university of wisconsin oshkosh,0,oshkosh,wisconsin,www.uwosh.edu,1,16,4,1
+240374,university of wisconsin parkside,0,kenosha,wisconsin,www.uwp.edu,1,12,2,1
+240417,university of wisconsin stout,0,menomonie,wisconsin,www.uwstout.edu,1,13,3,2
+240426,university of wisconsin superior,0,superior,wisconsin,www.uwsuper.edu,1,9,2,1
+240444,university of wisconsin madison,0,madison,wisconsin,www.wisc.edu,1,16,5,1
+240453,university of wisconsin milwaukee,uwm,milwaukee,wisconsin,www.uwm.edu,1,15,5,1
+240471,university of wisconsin river falls,0,river falls,wisconsin,www.uwrf.edu,1,13,3,1
+240727,university of wyoming,uw,laramie,wyoming,www.uwyo.edu,1,15,4,2
+243744,stanford university,0,stanford,california,www.stanford.edu/,1,17,4,1
+243780,purdue university main campus,purdue-west lafayette|purdue|pu|purdue-wl,west lafayette,indiana,www.purdue.edu,1,16,5,1
+245892,antioch university midwest,antioch university mcgregor,yellow springs,ohio,midwest.antioch.edu/,1,6,1,1
+366252,pennsylvania college of technology,penn college,williamsport,pennsylvania,www.pct.edu,2,12,3,1
+366711,california state university san marcos,0,san marcos,california,www.csusm.edu,1,12,4,1
+367884,hodges university,international college,naples,florida,www.hodges.edu,1,9,2,1
+367936,argosy university atlanta,0,atlanta,georgia,argosy.edu/,1,9,2,1
+377555,university of washington bothell campus,uwb  uw-b  uw-bothell,bothell,washington,www.uwb.edu,1,9,2,1
+377564,university of washington tacoma campus,uwt  uw-t  uw-tacoma,tacoma,washington,www.tacoma.uw.edu/,1,9,2,1
+381787,westwood college aurora campus,0,denver,colorado,www.westwood.edu,2,6,1,1
+407009,arizona state university west,asu west,glendale,arizona,www.asu.edu/,1,-3,2,1
+409315,south texas college,south texas community college,mcallen,texas,www.southtexascollege.edu,2,15,5,1
+409698,california state university monterey bay,csumb,seaside,california,www.csumb.edu,1,14,3,1
+413413,capella university,0,minneapolis,minnesota,www.capella.edu,1,15,5,1
+414708,baker college center for graduate studies,0,flint,michigan,www.baker.edu,1,12,2,1
+420574,arizona state university polytechnic,asu polytechnic,mesa,arizona,www.asu.edu/,1,-3,2,1
+428268,argosy university tampa,0,tampa,florida,www.argosy.edu/tampa,1,6,1,1
+432223,university of phoenix washington,0,tukwila,washington,www.phoenix.edu,1,-2,1,1
+433660,florida gulf coast university,0,fort myers,florida,www.fgcu.edu,1,13,4,1
+434973,university of phoenix maryland,0,columbia,maryland,www.phoenix.edu,1,-2,1,1
+435000,louisiana state university health sciences center shreveport,lsuhsc-s|lsu health sciences center-shreveport|lsu health sciences center - shreveport|lsu health sciences center in shreveport|lsu health sciences center at shreveport|louisiana state university health sciences center at shreveport|louisiana state university health sciences center in shreveport,shreveport,louisiana,www.lsuhscshreveport.edu,1,-2,1,1
+439297,university of phoenix ohio,0,beachwood,ohio,www.phoenix.edu,1,6,1,1
+440031,keck graduate institute,kgi | keck graduate institute of applied life sciences,claremont,california,www.kgi.edu,1,18,1,1
+440411,marlboro college graduate   professional studies,marlboro college  grad school  graduate center  grad center  mcgs  mcgc,brattleboro,vermont,gradschool.marlboro.edu/,1,6,1,-2
+440457,university of phoenix wisconsin,0,milwaukee,wisconsin,www.phoenix.edu,1,-2,1,1
+441308,university of the rockies,uor  |colorado school of professional psychology (cospp),colorado springs,colorado,www.rockies.edu,1,-2,2,1
+441937,california state university channel islands,csu channel islands,camarillo,california,www.csuci.edu,1,12,3,1
+441982,franklin w olin college of engineering,olin college of engineering,needham,massachusetts,www.olin.edu,2,-2,1,1
+442161,university of phoenix illinois,0,schaumburg,illinois,www.phoenix.edu,1,-2,1,1
+442392,antioch university phd program in leadership and change,0,yellow springs,ohio,www.phd.antioch.edu,1,-2,1,1
+442569,grantham university,0,kansas city,missouri,www.grantham.edu/,1,12,4,1
+443128,international technological university,itu,san jose,california,itu.edu,1,9,2,1
+443766,strayer university tennessee,0,memphis,tennessee,www.strayer.edu/tennessee/thousand-oaks,1,-3,2,1
+444130,northcentral university,0,prescott valley,arizona,www.ncu.edu,1,12,4,1
+444158,colorado technical university online,colorado tech online |ctu online  |ctu,colorado springs,colorado,www.coloradotech.edu/ctu-online,1,15,5,1
+444723,jones international university,0,centennial,colorado,www.jiu.edu,1,9,2,1
+445319,university of phoenix minnesota,0,saint louis park,minnesota,www.phoenix.edu,1,6,1,1
+446729,university of phoenix iowa,0,des moines,iowa,www.phoenix.edu,1,-2,1,1
+447689,georgia gwinnett college,0,lawrenceville,georgia,www.ggc.edu,2,9,4,1
+448840,university of south florida st petersburg,university of south florida st. petersburg,st. petersburg,florida,www.usfsp.edu,1,9,2,1
+448886,arizona state university downtown phoenix,asu downtown phoenix,phoenix,arizona,www.asu.edu/,1,-3,4,1
+449339,american public university system,american military university |american public university,charles town,west virginia,www.apus.edu,1,15,5,1
+450377,strayer university alabama,0,birmingham,alabama,www.strayer.edu/alabama/birmingham,1,-3,1,1
+450456,university of phoenix alabama,0,birmingham,alabama,www.phoenix.edu,1,-2,1,1
+450933,columbia southern university,0,orange beach,alabama,www.columbiasouthern.edu,1,12,5,1
+450979,trident university international,tui,cypress,california,www.trident.edu/,1,12,3,1
+451671,university of south florida sarasota manatee,usf sarasota-manatee,sarasota,florida,www.usfsm.edu/,1,9,2,1
+455664,the chicago school of professional psychology at los angeles,0,los angeles,california,www.thechicagoschool.edu/,1,-2,2,1
+458159,pinchot university,0,seattle,washington,www.bgi.edu,1,-3,1,1
+458919,strayer university georgia,0,atlanta,georgia,www.strayer.edu/georgia/chamblee,1,-3,3,1
+459727,touro university worldwide,tuw,los alamitos,california,www.tuw.edu,1,-3,1,1
+461120,oxford graduate school,american centre for religion and society studies,dayton,tennessee,www.ogs.edu/,1,-3,1,2
+466161,national american university centennial,0,centennial,colorado,www.national.edu/locations/colorado/centennial,2,-3,1,1
+476975,colorado state university global campus,0,greenwood village,colorado,csuglobal.edu,1,-3,3,1
+480781,california miramar university,0,san diego,california,www.calmu.edu,1,-3,1,1
+481225,mid south christian college,0,memphis,tennessee,www.midsouthcc.org,2,-3,1,1
+482149,augusta university,0,augusta,georgia,www.gru.edu,1,-3,3,1
+482158,middle georgia state university,0,macon,georgia,www.mga.edu/,2,-3,3,1
+482459,devry university florida,devry university-ft. lauderdale |devry university-jacksonville |devry university-miami |devry university-miramar |devry university-orlando |devry university-orlando north |devry university-tampa bay |devry university-tampa east,miramar,florida,www.devry.edu,1,-3,2,1
+482680,university of north georgia,ung,dahlonega,georgia,www.ung.edu,1,-3,4,-2
+483036,texas a   m university central texas,a&m-central texas,killeen,texas,tamuct.edu,1,-3,2,1
+483124,arizona state university skysong,asu skysong,scottsdale,arizona,www.asu.edu/,1,-3,4,1
+484613,university of phoenix arizona,0,0,0,0,1,-3,5,1
+484631,university of phoenix california,0,0,0,0,1,-3,5,1
+484640,university of phoenix colorado,0,0,0,0,1,-3,2,1
+484668,university of phoenix florida,0,0,0,0,1,-3,2,1
+484677,university of phoenix georgia,0,0,0,0,1,-3,2,1
+484747,university of phoenix tennessee,0,0,0,0,1,-3,2,1
+484756,university of phoenix texas,0,0,0,0,1,-3,3,1

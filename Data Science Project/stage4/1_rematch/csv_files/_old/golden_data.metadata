@@ -1,0 +1,5 @@
+#key=_id
+#fk_ltable=ltable_a_id
+#fk_rtable=rtable_person_id
+#ltable=POINTER
+#rtable=POINTER
