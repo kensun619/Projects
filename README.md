@@ -10,6 +10,7 @@ This Github repository keeps some of projects done UW Madison. I categorized the
 * [Disease marker for identification of early stage Alzheimer Disease](./Single%20Module%20Disease%20Marker)
 * [Recommender system] (./Recommender%20System)
 * [Fast permutation testing in neuroimaging to estimate family-wise error rate](./Permutation%20Testing)
+* [Understanding Dictionary Learning](./Understanding Dictionary Learning.ipynb)
 
 ## Data Science
 * [Researcher mobility and post-mobility collaboration](./Data%20Science%20Project)
