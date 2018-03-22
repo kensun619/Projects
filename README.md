@@ -8,7 +8,7 @@ This Github repository keeps some of projects done UW Madison. I categorized the
 
 ## Machine Learning
 * [Disease marker for identification of early stage Alzheimer Disease](./Single%20Module%20Disease%20Marker)
-* [Recommender system] (https://github.com/kensun619/Projects/tree/master/Recommender%20System)
+* [Recommender system](Recommender%20System)
 * [Fast permutation testing in neuroimaging to estimate family-wise error rate](./Permutation%20Testing)
 * [Understanding Dictionary Learning](./Understanding%20Dictionary%20Learning.ipynb)
 
