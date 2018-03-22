@@ -8,7 +8,5 @@ Python is compiled into the engine, but a properly pathed x64 python27 install m
 
 
 ## Demo Video
-Prock VR IDE Project Demo
-https://www.youtube.com/watch?v=RdVaZoD8ptc
-Prock VR IDE Explaining Physics
-https://www.youtube.com/watch?v=SrJamnDWqHo
+* [Prock VR IDE Project Demo](https://www.youtube.com/watch?v=RdVaZoD8ptc)
+* [Prock VR IDE Explaining Physics](https://www.youtube.com/watch?v=SrJamnDWqHo)
