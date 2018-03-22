@@ -2,7 +2,7 @@
 This Github repository keeps some of projects done UW Madison. I categorized them by different topics.
 ## Deep Learning
 * [Image-based detection for self-driving car]()
-* [Implementing convolution neural net using java](./Implementing CNN using Java)
+* [Implementing convolution neural net using java](./Implementing\ CNN\ using\ Java)
 * [Playing Atari games with Deep Reinforcement Learning](./Playing Atari games with Deep Reinforcement Learning)
 * [Image captioning]
 
