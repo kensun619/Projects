@@ -12,7 +12,7 @@ This Github repository keeps some of projects done UW Madison. I categorized the
 * [Fast permutation testing in neuroimaging to estimate family-wise error rate](./Permutation%20Testing)
 
 ## Data Science
-* [Researcher mobility and post-mobility collaboration](./Data Science%20Project)
+* [Researcher mobility and post-mobility collaboration](./Data%20Science%20Project)
 
 ## Virtual Reality
 * [Prock vitual reality code visualizer](./Prock)
