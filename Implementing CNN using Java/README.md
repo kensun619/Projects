@@ -1,0 +1,2 @@
+In this project, we implemented a convolution nerual network for image classification. The network has two convolution layer and two maxplooing layer followed by fully connected layer.
+Provided image data is 128x128 with six categories. There are about 800 images in totoal. After augmentation, we have about 8000 images splited into training, testing and tuning set. Since we are running on CPU, we scale the input image to 32 by 32.
