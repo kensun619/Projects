@@ -4,11 +4,11 @@ This Github repository keeps some of projects done UW Madison. I categorized the
 * [Image-based detection for self-driving car]()
 * [Implementing convolution neural net using java](./Implementing%20CNN%20using%20Java)
 * [Playing Atari games with Deep Reinforcement Learning](./Playing%20Atari%20games%20with%20Deep%20Reinforcement%20Learning)
-* [Image captioning]
+* Image captioning
 
 ## Machine Learning
 * [Disease marker for identification of early stage Alzheimer Disease](./Single%20Module%20Disease%20Marker)
-* [Recommender system] (./Recommender%20System)
+* [Recommender system] (https://github.com/kensun619/Projects/tree/master/Recommender%20System)
 * [Fast permutation testing in neuroimaging to estimate family-wise error rate](./Permutation%20Testing)
 * [Understanding Dictionary Learning](./Understanding%20Dictionary%20Learning.ipynb)
 
