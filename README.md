@@ -16,7 +16,7 @@ This Github repository keeps some of projects done in UW Madison. I categorized 
 * [Researcher mobility and post-mobility collaboration](./Data%20Science%20Project)
 
 ## Virtual Reality
-* [Prock vitual reality code visualizer](./Prock)
+* [Prock virtual reality code visualizer](./Prock)
 
 ## Commuication
 * [Delay Doppler Channel Estimation in Almost Linear Complexity](./Delay%20Doppler%20Channel%20Estimation%20in%20Almost%20Linear%20Complexity)
